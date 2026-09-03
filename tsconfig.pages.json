@@ -1,0 +1,22 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "next-env.d.ts",
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "components/**/*.ts",
+    "components/**/*.tsx",
+    "hooks/**/*.ts",
+    "lib/**/*.ts",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "app/chatgpt-auth.ts",
+    "db",
+    "worker",
+    "examples",
+    "build",
+    "drizzle.config.ts",
+    "node_modules"
+  ]
+}

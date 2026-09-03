@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useMemo, useState } from "react";
-import { BookOpen, ChefHat, MessageCircle, Search, Star, Users } from "lucide-react";
+import { BookOpen, ChefHat, MessageCircle, Pencil, Plus, Search, Star, Users } from "lucide-react";
 import recipesData from "./data/recipes.json";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
@@ -14,6 +14,8 @@ type Nutrition = { servings?: string | number | null; calories?: number | null; 
 type Recipe = { id: string; title: string; category: string; meal: string; protein: string; tags: string[]; ingredients: Ingredient[]; instructions: string[]; notes: string[]; rating: number | null; nutrition: Nutrition | null; source: string };
 
 const recipes = recipesData as Recipe[];
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+const repositoryUrl = "https://github.com/CaffeyClan/recipes";
 const mealTypes = ["Breakfast", "Lunch", "Dinner", "Sides", "Dessert", "Homemade Mixes"];
 const proteinTypes = ["Vegetarian", "Poultry", "Red Meat", "Seafood"];
 
@@ -53,6 +55,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
     {nutrition && Object.values(nutrition).some(Boolean) && <section><h3>Nutrition</h3><div className="nutrition-grid">
       {nutrition.servings && <div><strong>{nutrition.servings}</strong><span>Serving</span></div>}{nutrition.calories && <div><strong>{nutrition.calories}</strong><span>Calories</span></div>}{nutrition.protein && <div><strong>{nutrition.protein}g</strong><span>Protein</span></div>}{nutrition.carbs && <div><strong>{nutrition.carbs}g</strong><span>Carbs</span></div>}{nutrition.fat && <div><strong>{nutrition.fat}g</strong><span>Fat</span></div>}{nutrition.fiber && <div><strong>{nutrition.fiber}g</strong><span>Fiber</span></div>}
     </div></section>}
+    <a className="edit-recipe-link" href={`${repositoryUrl}/edit/main/recipes/${recipe.id}.md`} target="_blank" rel="noreferrer"><Pencil aria-hidden="true" /> Edit this family recipe</a>
   </div>;
 }
 
@@ -70,10 +73,10 @@ export default function Home() {
   }, [query, filter]);
 
   return <main>
-    <header className="topbar"><a className="brand" href="#top" aria-label="Our Family Meals home"><span><ChefHat aria-hidden="true" /></span><strong>Our Family Meals</strong></a><div className="family-count"><Users aria-hidden="true" /> Made for our family</div></header>
+    <header className="topbar"><a className="brand" href="#top" aria-label="Our Family Meals home"><span><ChefHat aria-hidden="true" /></span><strong>Our Family Meals</strong></a><div className="topbar-actions"><div className="family-count"><Users aria-hidden="true" /> Made for our family</div><a className="add-recipe-link" href={`${repositoryUrl}/blob/main/recipes/README.md`} target="_blank" rel="noreferrer"><Plus aria-hidden="true" /> Add a recipe</a></div></header>
     <section className="hero" id="top">
       <div className="hero-copy"><p className="eyebrow"><BookOpen aria-hidden="true" /> Our kitchen, collected</p><h1>What should we make?</h1><p>Family favorites, old standbys, and the recipes we want to remember—all in one place.</p><div className="search-wrap"><Search aria-hidden="true" /><Input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search recipes or ingredients…" aria-label="Search recipes or ingredients" /></div></div>
-      <div className="hero-image"><Image src="/family-table.png" alt="A family table filled with homemade dishes" fill priority sizes="(max-width: 760px) 100vw, 48vw" /><span>{recipes.length} recipes</span></div>
+      <div className="hero-image"><Image src={`${basePath}/family-table.png`} alt="A family table filled with homemade dishes" fill priority sizes="(max-width: 760px) 100vw, 48vw" /><span>{recipes.length} recipes</span></div>
     </section>
     <section className="library" aria-label="Recipe library">
       <div className="browse-filters">

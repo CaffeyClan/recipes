@@ -6,6 +6,10 @@
     "node": ">=22.13.0"
   },
   "scripts": {
+    "recipes:compile": "node scripts/compile-recipes.mjs",
+    "recipes:migrate": "node scripts/migrate-recipes-to-markdown.mjs",
+    "prebuild": "npm run recipes:compile",
+    "build:pages": "npm run recipes:compile && next build",
     "install:ci": "bash scripts/install-ci.sh",
     "dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vite",
     "build": "bash scripts/build-verified.sh",
