@@ -1,0 +1,6988 @@
+[
+  {
+    "id": "blueberry-apple-muffin",
+    "title": "Blueberry+Apple Muffin",
+    "category": "Breakfast",
+    "meal": "Breakfast, Snack",
+    "protein": "Meatless",
+    "tags": [
+      "Fruity",
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "1 medium",
+        "name": "Banana",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Apple puree",
+        "note": "sugarless"
+      },
+      {
+        "amount": "6",
+        "name": "Eggs",
+        "note": ""
+      },
+      {
+        "amount": "3 scoops",
+        "name": "Whey protein powder",
+        "note": ""
+      },
+      {
+        "amount": "1 cup",
+        "name": "White self-rising flour",
+        "note": ""
+      },
+      {
+        "amount": "1 cup",
+        "name": "Almond flour",
+        "note": ""
+      },
+      {
+        "amount": "1 1/2 cup",
+        "name": "Blueberries",
+        "note": "fresh is best"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 190 °C. Line a 12-hole muffin tray with paper cases.",
+      "Process banana and apple purée in a food processor until smooth. Add canola oil and eggs, pulse to combine.",
+      "In a medium bowl, stir flour mixture and banana mixture until combined. Fold in blueberries.",
+      "Divide mixture evenly among muffin cups. Bake ~15–18 minutes until a skewer comes out clean.",
+      "Let cool, store in airtight container (last 7 days) or freeze (last up to 3 months).",
+      "To Freeze: Wrap individually in plastic wrap.",
+      "To Reheat: Sit at room temp for 30-60 minutes OR bake 10-15 minutes at 350",
+      "For higher protein: Serve two muffins with a protein shake or Greek yogurt"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": {
+      "servings": "1 muffin",
+      "calories": 190,
+      "protein": 11,
+      "fat": 7,
+      "carbs": 18,
+      "fiber": 3,
+      "sodium": 150
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "cho-nana-overnight-oats",
+    "title": "Cho-Nana Overnight Oats",
+    "category": "Breakfast",
+    "meal": "Breakfast",
+    "protein": "Meatless",
+    "tags": [
+      "Fruity",
+      "No bake",
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "1 medium ",
+        "name": "Banana",
+        "note": ""
+      },
+      {
+        "amount": "1/3 cup",
+        "name": "Rolled oats",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Almond milk",
+        "note": ""
+      },
+      {
+        "amount": "1.5 scoops",
+        "name": "Whey protein powder",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Chia seeds",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Almonds or Mixed Nuts",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mash half of banana in a medium jar or large glass;",
+      "chop other banana half and add to jar with remaining ingredients.",
+      "Stir, cover, and",
+      "refrigerate overnight;",
+      "serve (garnished with fresh banana, optional)."
+    ],
+    "notes": [],
+    "rating": 5,
+    "nutrition": {
+      "servings": 1,
+      "calories": 360,
+      "protein": 35,
+      "fat": 7,
+      "carbs": 35,
+      "fiber": 7,
+      "sodium": 150
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "fruits-nuts",
+    "title": "Fruits & Nuts",
+    "category": "Breakfast",
+    "meal": "Breakfast, Snack",
+    "protein": "Meatless",
+    "tags": [
+      "Fruity",
+      "No bake",
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "1 cup",
+        "name": "Mixed Berries",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Honey",
+        "note": ""
+      },
+      {
+        "amount": "1/2 tsp",
+        "name": "Cinnamon",
+        "note": ""
+      },
+      {
+        "amount": "2 scoops",
+        "name": "Whey protein powder",
+        "note": "about 60 grams"
+      },
+      {
+        "amount": "1/4 cup",
+        "name": "Mixed nuts",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Chia seeds",
+        "note": "optional"
+      }
+    ],
+    "instructions": [
+      "In a bowl, combine berries, honey, and cinnamon.",
+      "Stir in protein powder- add a splash of milk/water to help mix smoothly.",
+      "Top with mixed nuts and optional chia seeds",
+      "Enjoy immediately!"
+    ],
+    "notes": [],
+    "rating": 5,
+    "nutrition": {
+      "servings": 1,
+      "calories": 380,
+      "protein": 27,
+      "fat": 14,
+      "carbs": 25,
+      "fiber": 7,
+      "sodium": 150
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "sheet-pan-cheesy-egg-in-a-hole",
+    "title": "Sheet-Pan Cheesy Egg-in-a-Hole",
+    "category": "Breakfast",
+    "meal": "Breakfast, Lunch",
+    "protein": "Meatless",
+    "tags": [
+      "Healthy"
+    ],
+    "ingredients": [
+      {
+        "amount": "4 sprays",
+        "name": "Cooking spray",
+        "note": ""
+      },
+      {
+        "amount": "4 slices",
+        "name": "Multigrain bread",
+        "note": ""
+      },
+      {
+        "amount": "4 eggs",
+        "name": "Egg",
+        "note": ""
+      },
+      {
+        "amount": "1/8 tsp",
+        "name": "Salt",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Cheddar cheese",
+        "note": ""
+      },
+      {
+        "amount": "1/8 tsp",
+        "name": "Black pepper",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Place sheet pan in over. Preheat to 425°F.",
+      "Cut hole in center of each bread slice.",
+      "Remove pan from oven, coat with cooking spray.",
+      "Arrange bread slices and cutouts on pan, crack one egg into each bread slice.",
+      "Sprinkle salt over eggs, cheese over bread cutouts.",
+      "Bake 7-10 minutes, until egg whites are set.",
+      "Top with black pepper."
+    ],
+    "notes": [],
+    "rating": 3,
+    "nutrition": {
+      "servings": "1 slice of bread",
+      "calories": 205,
+      "protein": 14,
+      "fat": 11,
+      "carbs": 4,
+      "fiber": 12,
+      "sodium": 360
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "2-person-cookie-dough",
+    "title": "2 Person Cookie Dough",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/4 cup Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/8 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/8 tsp Vanilla",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "5 tbsp Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Chocolate Chips",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix all ingredients together",
+      "Enjoy with a spoon!"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 102
+  },
+  {
+    "id": "cake-box-cookies",
+    "title": "Cake Box Cookies",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 box Chocolate Cake Mix",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Peanut Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Powdered Sugar - topping",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375",
+      "Mix all ingredients together",
+      "Drop ½ tbsp balls - whatever shape they are they resemble",
+      "Cook 9-11 minutes",
+      "Let cool",
+      "Sprinkle with Powdered Sugar"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 103
+  },
+  {
+    "id": "cherry-flan-crockpot",
+    "title": "Cherry Flan Crockpot",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "5 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3/4 cup Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Evaporated Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Vanilla",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "16-ounces Frozen Sweet Cherries, thawed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Whipped Cream *Optional",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Cherry-Vanilla Ice Cream *Optional",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Spray crockpot with nonstick spray",
+      "2. Beat eggs, sugar, & salt until thick and pale yellow",
+      "3. Add flour, beat until smooth. Add milk and vanilla, beat until smooth.",
+      "4. Pour into crockpot, place cherries on top.",
+      "5. Cover, cook low 4 hours or until flan is set.",
+      "6. Serve warm with whipped cream and/or ice cream."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 95
+  },
+  {
+    "id": "chocolate-bars",
+    "title": "Chocolate Bars",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "Crust:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 cup Graham Cracker Crumbs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Melted Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Filling:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Sweetened Condensed Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cups Chocolate Chips",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Toppings of choice (nuts, coconut flakes, etc)",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 350",
+      "Mix crust ingredients and press on pan, forming even-later base",
+      "Pour milk, add chocolate, then evenly layer desired toppings",
+      "Bake 25 minutes, or until lightly browned"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 99
+  },
+  {
+    "id": "chocolate-chip-cookies",
+    "title": "Chocolate Chip Cookies",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 cup Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Baking Soda",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Chocolate Chips",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Butter, softened",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Egg",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Vanilla",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375",
+      "In one bowl. Mix dry ingredients (flour, soda, salt)",
+      "In seperate, bigger bowl mix wet ingredients (remaining ingredients)",
+      "Slowly add dry mix to wet mix, combining well",
+      "On baking sheet, drop 1 tbsp balls at 1.5 inches apart",
+      "Bake 12-14 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 106
+  },
+  {
+    "id": "chocolate-chip-mug-cake",
+    "title": "Chocolate Chip Mug Cake",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 tbsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Vanilla Extract",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "5 tbsp Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Baking Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Dash Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Chocolate Chips",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Add butter only to mug of choice, microwave untitled melted",
+      "Add and mix remaining ingredients from top to bottom",
+      "Microwave for 1 minute"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 93
+  },
+  {
+    "id": "foolproof-chocolate-fudge",
+    "title": "Foolproof Chocolate Fudge",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "3 cups Chocolate Chips",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Sweetened Condensed Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Dash of Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 - 1 cup Chopped Nuts",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Vanilla",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In saucepan, on low heat melt chips, milk, and salt. Stir constantly",
+      "Remove from heat, add nuts and vanilla",
+      "Spread evenly in square pan lined with wax paper",
+      "Chill for 2 hours, or until firm"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 101
+  },
+  {
+    "id": "gingerbread-crockpot",
+    "title": "Gingerbread Crockpot",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 cup Butter, softened",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Egg, lightly beaten",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Molasses",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 1/2 cups Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Baking Soda",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Ground Cinnamon",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Ground Ginger",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Ground Cloves",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Hot Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Whipped cream, orange peel *Optional, for topping",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Beat butter and sugar, add one at a time egg-salt ingredients.",
+      "Stir in hot water and mix well",
+      "Coat crockpot with nonstick spray. Pour batter in.",
+      "Cover and cook high 3-4 hours",
+      "Serve with toppings"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 97
+  },
+  {
+    "id": "millionaire-cranberry-salad",
+    "title": "Millionaire Cranberry Salad",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "Meatless",
+    "tags": [
+      "Holiday",
+      "Sweet",
+      "Fruity",
+      "No bake"
+    ],
+    "ingredients": [
+      {
+        "amount": "2 cups",
+        "name": "Sour cream",
+        "note": ""
+      },
+      {
+        "amount": "2 cups",
+        "name": "Pineapple tidbits",
+        "note": "well drained"
+      },
+      {
+        "amount": "2 cups",
+        "name": "Minature marshmallows",
+        "note": ""
+      },
+      {
+        "amount": "1 cup",
+        "name": "Pecans",
+        "note": "chopped"
+      },
+      {
+        "amount": "2 cups",
+        "name": "Coconut flakes",
+        "note": ""
+      },
+      {
+        "amount": "3 cups",
+        "name": "Cranberries",
+        "note": "fresh"
+      },
+      {
+        "amount": "3/4 cup",
+        "name": "Sugar",
+        "note": ""
+      },
+      {
+        "amount": "1 cup",
+        "name": "Water",
+        "note": ""
+      },
+      {
+        "amount": "1 stick",
+        "name": "Cinnamon stick",
+        "note": "optional"
+      }
+    ],
+    "instructions": [
+      "Combine cranberries, sugar, water and cinnamon stick in a saucepan. Bring to a boil, reduce heat and let simmer 10 minutes. Cool completely (sauce will thicken upon cooling).",
+      "Add 1 ½ cups cooled cranberry mixture from step 1 with remaining ingredients and stir well.",
+      "Let sit 4 hours or overnight."
+    ],
+    "notes": [],
+    "rating": 4,
+    "nutrition": {
+      "servings": 10,
+      "calories": 433,
+      "protein": 3,
+      "fat": 28,
+      "carbs": 47,
+      "fiber": 6,
+      "sodium": 54
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "monkey-bread",
+    "title": "Monkey Bread",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "3 can Buttermilk Biscuits, quartered",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Ground Cinnamon",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Chopped nut, raisins for topping",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat 350, grease 9” circle pan",
+      "Mix sugar and cinnamon, coat quartered biscuits in mix. Add to circle pan.",
+      "On stove, melt butter in saucepan on medium-high heat",
+      "Add brown sugar, boil 1 minute then pour over biscuits",
+      "Bake 35 minutes, cool 10 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 100
+  },
+  {
+    "id": "no-bake-energy-bites",
+    "title": "No Bake Energy Bites",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 cup Oatmeal, dry",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Peanut Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Honey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Chocolate Chips",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Dash of Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Vanilla",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Oatmeal, dry",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Chocolate Chips",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Peanut Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Ground Flaxseed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/3 cup Honey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Vanilla",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "OR",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix all together.",
+      "Form 1 inch balls",
+      "Sit in fridge to firm",
+      "Stores up to 1 week"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 98
+  },
+  {
+    "id": "orange-creamsicle-salad",
+    "title": "Orange Creamsicle Salad",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "Meatless",
+    "tags": [
+      "Sweet",
+      "Holiday",
+      "Fruity",
+      "No bake"
+    ],
+    "ingredients": [
+      {
+        "amount": "3 ounces",
+        "name": "Orange Jell-o",
+        "note": ""
+      },
+      {
+        "amount": "1 cup",
+        "name": "Water",
+        "note": "boiling"
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Water",
+        "note": "cold"
+      },
+      {
+        "amount": "3.4 ounces",
+        "name": "Vanilla pudding",
+        "note": ""
+      },
+      {
+        "amount": "4 ounces",
+        "name": "Cream cheese",
+        "note": "soften"
+      },
+      {
+        "amount": "8 ounces",
+        "name": "Cool whip",
+        "note": "container"
+      },
+      {
+        "amount": "2 1/2 cups",
+        "name": "Minature marshmallows",
+        "note": ""
+      },
+      {
+        "amount": "22 ounces",
+        "name": "Mandarin Oranges",
+        "note": "drained"
+      }
+    ],
+    "instructions": [
+      "In a large bowl add the jello powder and boiling water. Whisk it together. Then, add the cold water and stir it in.",
+      "Put it in the fridge to cool for about 20 minutes.",
+      "Stir in the pudding powder and refrigerate for another 20 minutes until it sets.",
+      "Add in the cream cheese and cool whip and stir to combine.",
+      "Then stir in the marshmallows and mandarin oranges.",
+      "Refrigerate for at least an hour. Serve chilled."
+    ],
+    "notes": [],
+    "rating": 5,
+    "nutrition": {
+      "servings": 8,
+      "calories": 180,
+      "protein": 2,
+      "fat": 5,
+      "carbs": 33,
+      "fiber": 0.1,
+      "sodium": 176
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "peanut-butter-cookies",
+    "title": "Peanut Butter Cookies",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 cup Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 stick Butter, softened",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Egg",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Peanut Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Vanilla",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Baking Soda",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 cup Flour",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350",
+      "Mix ingredients one at a time starting at top",
+      "Roll into 1 inch balls",
+      "Roll in sugar and flatten with fork for criss-cross design OR shape to small patty to top with hershey kiss after baking",
+      "Bake 12-15 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 105
+  },
+  {
+    "id": "pineapple-foster",
+    "title": "Pineapple Foster",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 cup Pineapple, cubed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 tsp Dark Rum",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 tsp Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Cinnamon",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Walnuts, chopped & toasted",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Melt butter in medium skillet over medium heat.",
+      "2. Add pineapple until browned, ~8 minutes",
+      "3. Add rum, brown sugar, and cinnamon, cook until sugar dissolved and mixture syrupy, ~2 minutes",
+      "Add to ice cream, pancakes, or other dishes as a yummy topping!"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 94
+  },
+  {
+    "id": "streusel-pound-cake-crockpot",
+    "title": "Streusel Pound Cake Crockpot",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pkg, 16-oz Pound Cake Mix, plus ingredients to prepare mix",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Chopped Nuts",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Ground Cinnamon",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Strawberries, blueberries, raspberries, and powdered sugar for topping",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Coat crockpot with nonstick spray",
+      "Prepare cake mix according to package",
+      "Add remaining ingredients, except berries, to cake mix",
+      "Pour batter into crockpot, cover and cook high 3-4 hours",
+      "Serve with berries and powdered sugar on top"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 96
+  },
+  {
+    "id": "sugar-cookies",
+    "title": "Sugar Cookies",
+    "category": "Dessert",
+    "meal": "Dessert",
+    "protein": "",
+    "tags": [
+      "Dessert"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 cup Butter, softened",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Egg",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Vanilla",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Baking Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 3/4 cup Flour",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400",
+      "In large bowl, cream butter and sugar with mixer",
+      "Add egg, mix",
+      "Add vanilla, mix",
+      "In separate bowl, mix baking powder and flour",
+      "Slowly add dry mix to wet mix",
+      "Roll on floured surface, making dough even and thin",
+      "Cut into shapes.",
+      "Bake for 7-10 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 104
+  },
+  {
+    "id": "chicken-parmigiana",
+    "title": "Chicken Parmigiana",
+    "category": "Dinner",
+    "meal": "Dinner",
+    "protein": "Chicken",
+    "tags": [
+      "25g or more Protein",
+      "Healthy"
+    ],
+    "ingredients": [
+      {
+        "amount": "3 sprays",
+        "name": "Olive oil cooking spray",
+        "note": ""
+      },
+      {
+        "amount": "1 pound",
+        "name": "Chicken",
+        "note": ""
+      },
+      {
+        "amount": "2 eggs",
+        "name": "Egg whites",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Breadcrumbs",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Italian seasoning",
+        "note": ""
+      },
+      {
+        "amount": "1/2 tsp",
+        "name": "Salt",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Olive oil",
+        "note": ""
+      },
+      {
+        "amount": "1 1/2 cups",
+        "name": "Tomato sauce",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Mozzarella",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Parmesan",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Basil",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F. Coat large baking pan with cooking spray.",
+      "Place chicken between two sheets of wax paper; using a rolling pin, pound the chicken to 1/4-inch thickness.",
+      "Place the egg whites in a shallow bowl. In another shallow bowl, combine the bread crumbs with Italian seasoning and salt. Dip the chicken in the egg whites, coating it. Then dip the chicken in the bread crumb mixture, coating well.",
+      "Coat large skillet with cooking spray and add oil; heat over medium-high heat. When hot, add the chicken and cook until lightly browned and no longer pink, about 4 minutes per side.",
+      "Pour 1/2 cup of sauce into baking dish, add chicken in a single layer, pour remaining sauce over chiekn, sprinkle with cheeses.",
+      "Bake for 25 minutes, garnish with basil"
+    ],
+    "notes": [],
+    "rating": 4,
+    "nutrition": {
+      "servings": "1 chicken",
+      "calories": 445,
+      "protein": 58,
+      "fat": 15,
+      "carbs": 4,
+      "fiber": 15,
+      "sodium": 840
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "chicken-picadillo",
+    "title": "Chicken Picadillo",
+    "category": "Dinner",
+    "meal": "Dinner, Lunch",
+    "protein": "Chicken",
+    "tags": [
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "4 tsp",
+        "name": "Canola oil",
+        "note": ""
+      },
+      {
+        "amount": "1 1/4 pounds",
+        "name": "Ground chicken",
+        "note": ""
+      },
+      {
+        "amount": "1 medium",
+        "name": "Onion",
+        "note": ""
+      },
+      {
+        "amount": "1 large, chopped",
+        "name": "Poblano pepper",
+        "note": ""
+      },
+      {
+        "amount": "3 cloves, minced",
+        "name": "Garlic",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Oregano",
+        "note": ""
+      },
+      {
+        "amount": "2 tsp",
+        "name": "Ground cumin",
+        "note": ""
+      },
+      {
+        "amount": "1/2 tsp",
+        "name": "Salt",
+        "note": ""
+      },
+      {
+        "amount": "1/4 tsp",
+        "name": "Red pepper flakes",
+        "note": ""
+      },
+      {
+        "amount": "15 oz",
+        "name": "Tomato sauce",
+        "note": ""
+      },
+      {
+        "amount": "1/3 cup",
+        "name": "Golden seedless raisins",
+        "note": ""
+      },
+      {
+        "amount": "1/3 cup, chopped",
+        "name": "Olives, green variety",
+        "note": ""
+      },
+      {
+        "amount": "3 tbsp",
+        "name": "Cilantro",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Lime juice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Tortillas, for serving",
+        "note": ""
+      },
+      {
+        "amount": "Thinly sliced",
+        "name": "Radish, for serving",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Heat 2 tsps oil in large skillet over medium-high heat.",
+      "Add chicken and cook, breaking up wiht wooden spoon, until browned, about 4 minutes.",
+      "Transfer to medium bowl.",
+      "Add remaining 2 tsps oil to skillet. Add onion and poblano and cook, stirring frequently, until vegetables are golden, about 6 minutes.",
+      "Add garlic, oregano, cumin, salt, and pepper and cook, stirring constantly, about 30 seconds.",
+      "Stir in tomato sauce, raisins, olives, and chicken. Reduce heat, cover and simmer 5 minutes.",
+      "Remove from heat, stir in cilantro and lime juice."
+    ],
+    "notes": [],
+    "rating": 4,
+    "nutrition": {
+      "servings": "~ 1/4 cup",
+      "calories": 378,
+      "protein": 35,
+      "fat": 19,
+      "carbs": 3,
+      "fiber": 19,
+      "sodium": 460
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "harissa-and-yogurt-chicken-with-potatoes",
+    "title": "Harissa and yogurt chicken with potatoes",
+    "category": "Dinner",
+    "meal": "Dinner",
+    "protein": "Chicken",
+    "tags": [
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "6 sprays",
+        "name": "Cooking spray",
+        "note": ""
+      },
+      {
+        "amount": "1 pound",
+        "name": "Baby potatoes",
+        "note": ""
+      },
+      {
+        "amount": "3/4 tsp",
+        "name": "Salt",
+        "note": ""
+      },
+      {
+        "amount": "1 cup",
+        "name": "Plain low fat yogurt",
+        "note": ""
+      },
+      {
+        "amount": "1/3 cup",
+        "name": "Peppermint leaves",
+        "note": ""
+      },
+      {
+        "amount": "2 tsp",
+        "name": "Ground cumin",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Harissa paste",
+        "note": ""
+      },
+      {
+        "amount": "2 1/2 pounds",
+        "name": "Chicken",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 450°F. Spray large sheet pan with cooking spray.",
+      "Add potatoes to pan, coat with cooking spray and season with salt.",
+      "Roast for 15 minutes.",
+      "In large bowl, combine the yogurt, mint, cumin, harissa, and 1/2 tsp salt.",
+      "Add chicken and coat.",
+      "Reduce oven temp to 400°F. Stir the potatoes, ppush to side of pan.",
+      "Arrange chicken on pan, spoon remaining sauce on top.",
+      "Roast until cooked, about 30-35 minutes."
+    ],
+    "notes": [],
+    "rating": 4,
+    "nutrition": {
+      "servings": "5 oz chicken and 1/3 cup potatoes",
+      "calories": 356,
+      "protein": 36,
+      "fat": 15,
+      "carbs": 3.5,
+      "fiber": 17,
+      "sodium": 360
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "lemony-chicken-francaise",
+    "title": "Lemony chicken francaise",
+    "category": "Dinner",
+    "meal": "Dinner",
+    "protein": "Chicken",
+    "tags": [
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "4 sprays",
+        "name": "Cooking spray",
+        "note": ""
+      },
+      {
+        "amount": "4 cutlets",
+        "name": "Chicken breast",
+        "note": ""
+      },
+      {
+        "amount": "3/4 tsp",
+        "name": "Salt",
+        "note": ""
+      },
+      {
+        "amount": "1/2 tsp",
+        "name": "Garlic powder",
+        "note": ""
+      },
+      {
+        "amount": "1/4 tsp",
+        "name": "Black pepper",
+        "note": ""
+      },
+      {
+        "amount": "1/4 cup",
+        "name": "All-purpose flour",
+        "note": ""
+      },
+      {
+        "amount": "2 eggs",
+        "name": "Eggs",
+        "note": ""
+      },
+      {
+        "amount": "2/3 cup",
+        "name": "Chicken stock",
+        "note": ""
+      },
+      {
+        "amount": "1/3 cup",
+        "name": "White wine",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Lemon juice",
+        "note": ""
+      },
+      {
+        "amount": "1, thinkly sliced",
+        "name": "Lemon",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Butter",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Fresh parsley",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Place chicken between two sheets of plastic wrap and pound to a 1/4-inch thickness.",
+      "Arrange cutlets in a single layer and sprinkle with salt, garlic, and pepper. Sprinkle with flour and rub in.",
+      "Place whisked eggs into shallow dish, dip the chicken.",
+      "Coat large nonstick skillet with cooking spray and set to medium heat.",
+      "Add cutlets in a single layer, cook until lightly browned and cooked through.",
+      "Whisk stock, wine, lemon juice, and 1 tbsp flour. Add to skillet and bring to boil over medium heat stirring frequently.",
+      "Stir in pinch of salt and lemon slices, cook until thicken, about 3 minutes.",
+      "Stir in butter.",
+      "Add chicken to pan and coat in sauce.",
+      "Sprinkle with parsley."
+    ],
+    "notes": [],
+    "rating": 4,
+    "nutrition": {
+      "servings": "1 cutlet + 1/4 cup sauce",
+      "calories": 260,
+      "protein": 36,
+      "fat": 7,
+      "carbs": 2,
+      "fiber": 9,
+      "sodium": 520
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "rosemary-chicken-and-roasted-vegetables",
+    "title": "Rosemary Chicken and Roasted Vegetables",
+    "category": "Dinner",
+    "meal": "Dinner",
+    "protein": "Chicken",
+    "tags": [
+      "Healthy",
+      "25g or more Protein",
+      "Fruity"
+    ],
+    "ingredients": [
+      {
+        "amount": "4 sprays",
+        "name": "Cooking spray",
+        "note": ""
+      },
+      {
+        "amount": "1 pound",
+        "name": "Chicken breast",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Balsamic vinegar",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp, chopped",
+        "name": "Rosemary",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Salt",
+        "note": ""
+      },
+      {
+        "amount": "1/2 tsp",
+        "name": "Black pepper",
+        "note": ""
+      },
+      {
+        "amount": "2 cloves, minced",
+        "name": "Garlic",
+        "note": ""
+      },
+      {
+        "amount": "1 1/2 pounds, peeled and cut to wedges",
+        "name": "Yukon gold potatoes",
+        "note": ""
+      },
+      {
+        "amount": "2, cut to large chunks",
+        "name": "Carrots",
+        "note": ""
+      },
+      {
+        "amount": "1 1/2 tbsp",
+        "name": "Olive oil",
+        "note": ""
+      },
+      {
+        "amount": "1 1/3 cup",
+        "name": "Frozen green peas",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Lemon juice",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat 425°F, coat raosting pan with cooking spray.",
+      "In bowl, combine chicken, vinegar, rosemary, salt, pepper, and garlic. Let stand at roome temperature.",
+      "In roating pan, combine potatoes, carrot, and oil; toss to coat. Roast about 25 minutes, until browned.",
+      "Coat large skillet with cooking spray, heat pan to medium-high heat.",
+      "Add chicken to pan, smooth side down and cook until browned, about 4 minutes, on that one side.",
+      "Once roasting pan is done, stir vegetables and add chicken to pan, browned side up.",
+      "Add back to oven until chicken is cooked through, about 15 minutes.",
+      "Bring small saucepan of water t oboil, add peas and boil 2 minutes. Drain water, add salt, pepper, and lemon juice to peas. Garnish with rosemary."
+    ],
+    "notes": [],
+    "rating": 5,
+    "nutrition": {
+      "servings": "4 oz chicken + 1  cup vegetables",
+      "calories": 430,
+      "protein": 27,
+      "fat": 17,
+      "carbs": 4,
+      "fiber": 42,
+      "sodium": 590
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "bbq-sauce",
+    "title": "BBQ Sauce",
+    "category": "Homemade Mixes & More",
+    "meal": "Homemade Mixes & More",
+    "protein": "",
+    "tags": [
+      "Homemade Mixes & More"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 cups Ketchup",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/3 cup Apple Cider Vinegar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/3 cup Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Mustard",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Onion Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Cayenne Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Salt",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix all on low heat",
+      "Simmer for 20 minutes (should be thin)",
+      "Remove from heat & cool (20-30 minutes)",
+      "Add to cooked meat",
+      "Save in fridge for 1 week or Freezer for 3-4 months"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 110
+  },
+  {
+    "id": "carrabba-s-bread-dip",
+    "title": "Carrabba’s Bread Dip",
+    "category": "Homemade Mixes & More",
+    "meal": "Homemade Mixes & More",
+    "protein": "",
+    "tags": [
+      "Homemade Mixes & More"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tbsp Crushed Red Pepper Flakes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Black Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Oregano",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Basil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Parsley",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 ½ tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 ½ tsp Onion Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 ½ tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "½ tsp Rosemary",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 cloves minced Garlic",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Olive Oil",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix all the seasonings together (red pepper - garlic)",
+      "Add 1 tbsp of seasoning to dipping bowl",
+      "Add olive oil to bowl to desired amount",
+      "Dip bread and enjoy!"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 114
+  },
+  {
+    "id": "cough-syrup",
+    "title": "Cough Syrup",
+    "category": "Homemade Mixes & More",
+    "meal": "Homemade Mixes & More",
+    "protein": "",
+    "tags": [
+      "Homemade Mixes & More"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 tsp Cayenne Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Ground Ginger",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Honey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Apple Cider Vinegar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Fresh Lemon Juice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Water",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Add all ingredients to jar with lid.",
+      "Tighten lid and shake jar to mix well",
+      "Store with lid on in refrigerator",
+      "Shake well before taking",
+      "1 teaspoon to soothe sore throats and coughs",
+      "Repeat every couple hours, as needed",
+      "*NO honey for children under 1 years old"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 115
+  },
+  {
+    "id": "easy-pasta-sauce",
+    "title": "Easy Pasta Sauce",
+    "category": "Homemade Mixes & More",
+    "meal": "Homemade Mixes & More",
+    "protein": "",
+    "tags": [
+      "Homemade Mixes & More"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 tbsp Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Onion, finely diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 cloves Garlic, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Basil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Pinch Red Pepper Flakes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "28-ounce can Crushed Tomato",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Water",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Heat oil over high heat. Saute onions until soften, ~3 minutes. Add garlic, cook 2 minutes.",
+      "Add basil - sugar, stir.",
+      "Add butter, stir and cook 1 minutes.",
+      "Add half of the can of tomatoes, reduce heat to low and stir well, scraping bottom on pan. Add remaining can.",
+      "Stir in water. If too thick, add additional water.",
+      "Simmer 10 minutes-1 hour."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 111
+  },
+  {
+    "id": "quick-pasta-sauce",
+    "title": "Quick Pasta Sauce",
+    "category": "Homemade Mixes & More",
+    "meal": "Homemade Mixes & More",
+    "protein": "",
+    "tags": [
+      "Homemade Mixes & More"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tbsp Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Onion, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Garlic, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "28 ounces Tomato, canned",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Red Pepper Flakes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Basil, dried and finely chopped",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In skillet, heat oil on medium heat",
+      "Add onion and garlic, cook ~2 minutes",
+      "Add remaining ingredients and stir",
+      "Simmer on low for 10 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 112
+  },
+  {
+    "id": "ramen-flavor-mix",
+    "title": "Ramen Flavor Mix",
+    "category": "Homemade Mixes & More",
+    "meal": "Homemade Mixes & More",
+    "protein": "",
+    "tags": [
+      "Homemade Mixes & More"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1.5 tbsp Soy Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": ".5 tbsp Corn Syrup",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": ".5 tbsp Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": ".5-1 tbsp Gochugaru",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": ".5 tbsp Rice Wine",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Sesame Seeds",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix together",
+      "Add to ramen or other dishes for a flavor kick."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 108
+  },
+  {
+    "id": "ranch-dressing",
+    "title": "Ranch Dressing",
+    "category": "Homemade Mixes & More",
+    "meal": "Homemade Mixes & More",
+    "protein": "",
+    "tags": [
+      "Homemade Mixes & More"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 cup Mayo",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Sour Cream",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Lemon Juice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Dried Parsley",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Dried Dill",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Dried Chives",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Onion Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Sea Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Black Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Unsweetened Almond Milk",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Whisk mayo-pepper together.",
+      "Add milk last, gradually until desired consistency",
+      "Refrigerate for at least 1 hour.",
+      "Store in fridge for up to 10 days"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 113
+  },
+  {
+    "id": "taco-seasoning-mix",
+    "title": "Taco Seasoning Mix",
+    "category": "Homemade Mixes & More",
+    "meal": "Homemade Mixes & More",
+    "protein": "",
+    "tags": [
+      "Homemade Mixes & More"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tbsp Chili Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Ground Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Onion Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Crushed Red Pepper Flake",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Dried Oregano",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp S&P",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix together and store in airtight container"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 109
+  },
+  {
+    "id": "chicken-caesar-salad-wrap",
+    "title": "Chicken Caesar salad wrap",
+    "category": "Lunch",
+    "meal": "Lunch, Snack",
+    "protein": "Chicken",
+    "tags": [
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "1/2 cup",
+        "name": "Cooked chicken breast pieces",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Light Caesar dressing",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Plain fat free Greek yogurt",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Dijon mustard",
+        "note": ""
+      },
+      {
+        "amount": "2 tsp",
+        "name": "Lemon juice",
+        "note": ""
+      },
+      {
+        "amount": "1/2 tsp",
+        "name": "Garlic powder",
+        "note": ""
+      },
+      {
+        "amount": "2 pinches",
+        "name": "Salt",
+        "note": ""
+      },
+      {
+        "amount": "1 pinch",
+        "name": "BBlack pepper",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Sliced almonds",
+        "note": ""
+      },
+      {
+        "amount": "1 wrap",
+        "name": "Whole wheat wrap",
+        "note": ""
+      },
+      {
+        "amount": "Shredded, 1 cup",
+        "name": "Romaine lettuce",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In medium bowl, stir together the chicken, dressing, yogurt, mustard, lemon juice, garlic, salt, and pepper.",
+      "Fold in the almonds.",
+      "Arrange the chicken salad down the wrap, top with lettuce."
+    ],
+    "notes": [],
+    "rating": 3,
+    "nutrition": {
+      "servings": "1 wrap",
+      "calories": 375,
+      "protein": 36,
+      "fat": 25,
+      "carbs": 3,
+      "fiber": 39,
+      "sodium": 620
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "chicken-pasta",
+    "title": "Chicken Pasta",
+    "category": "Lunch",
+    "meal": "Lunch, Dinner",
+    "protein": "Chicken",
+    "tags": [
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "4 ounces",
+        "name": "Chicken",
+        "note": ""
+      },
+      {
+        "amount": "2 ounces",
+        "name": "Whole-grain spaghetti",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Olive oil",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Parmesan",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Mozzarella",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Cook pasta",
+      "Cut chicken into bit size pieces",
+      "With oil, fry until golden brown",
+      "Add chicken and cheese to pasta"
+    ],
+    "notes": [],
+    "rating": 4,
+    "nutrition": {
+      "servings": 1,
+      "calories": 515,
+      "protein": 30,
+      "fat": 17,
+      "carbs": 56,
+      "fiber": 8,
+      "sodium": 540
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "dakgalbi",
+    "title": "Dakgalbi",
+    "category": "Lunch",
+    "meal": "Lunch, Dinner, Snack",
+    "protein": "Chicken",
+    "tags": [
+      "Healthy",
+      "25g or more Protein",
+      "No bake"
+    ],
+    "ingredients": [
+      {
+        "amount": "100g",
+        "name": "Rice cakes",
+        "note": ""
+      },
+      {
+        "amount": "250g",
+        "name": "Chicken breast",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Brown sugar",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Gochugaru",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Goshujang",
+        "note": ""
+      },
+      {
+        "amount": "2 tsp",
+        "name": "Black pepper",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Soy sauce",
+        "note": ""
+      },
+      {
+        "amount": "1/2 tbsp",
+        "name": "Sesame oil",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Curry powder",
+        "note": ""
+      },
+      {
+        "amount": "2 tsp, minced",
+        "name": "Garlic",
+        "note": ""
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Mirin",
+        "note": ""
+      },
+      {
+        "amount": "100g",
+        "name": "Nappa cabbage",
+        "note": ""
+      },
+      {
+        "amount": "1 cup",
+        "name": "Red onion",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Green onions",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Sesame seeds",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Dice nappa cabbage, green onions, and red onions.",
+      "2. Cut chicken into bit-size slices, mix with brown sugar, gochugaru, black pepper, soy sauce, sesame oil, gochujang, mirin, a curry cube, and minced garlic.",
+      "3. In a pan, spray cooking oil and heat to medium-low heat, cook chicken until cooked through.",
+      "4. Add red onions, nappa cabbage, green onions, and rice cakes. Stir-fry until everything is evenly marinated.",
+      "5. Top with sesame seeds and enjoy!"
+    ],
+    "notes": [],
+    "rating": 4,
+    "nutrition": {
+      "servings": "2 cups",
+      "calories": 478,
+      "protein": 26,
+      "fat": 13,
+      "carbs": 44,
+      "fiber": 4,
+      "sodium": 900
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "potato-curry-chicken",
+    "title": "Potato & Curry Chicken",
+    "category": "Lunch",
+    "meal": "Lunch, Dinner",
+    "protein": "Chicken",
+    "tags": [
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "6 ounces",
+        "name": "Chicken",
+        "note": ""
+      },
+      {
+        "amount": "1 medium",
+        "name": "Potato",
+        "note": ""
+      },
+      {
+        "amount": "3 tsp",
+        "name": "Oil",
+        "note": ""
+      },
+      {
+        "amount": "1/2",
+        "name": "Onion",
+        "note": ""
+      },
+      {
+        "amount": "2/3 cups",
+        "name": "Can tomatoes",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Water",
+        "note": ""
+      },
+      {
+        "amount": "1 clove",
+        "name": "Garlic",
+        "note": ""
+      },
+      {
+        "amount": "1 pinch",
+        "name": "Ground ginger",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Curry powder",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Heat oil in pan, add onion",
+      "Add ginger and garlic",
+      "Add chicken until cooked",
+      "Add potatoes and S&P",
+      "Add tomatoes and water",
+      "Simmer ~20 minutes (potatoes soft)"
+    ],
+    "notes": [],
+    "rating": 5,
+    "nutrition": {
+      "servings": 1,
+      "calories": 480,
+      "protein": 36,
+      "fat": 17,
+      "carbs": 49,
+      "fiber": 6,
+      "sodium": 460
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "ramen-soup-with-tofu",
+    "title": "Ramen Soup with Tofu",
+    "category": "Lunch",
+    "meal": "Lunch, Snack",
+    "protein": "Meatless",
+    "tags": [],
+    "ingredients": [
+      {
+        "amount": "2 cups",
+        "name": "Vegetable broth",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup, sliced",
+        "name": "Shiitake mushrooms",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp, chopped",
+        "name": "Ginger",
+        "note": ""
+      },
+      {
+        "amount": "1 1/2 oz",
+        "name": "Ramen noodles",
+        "note": ""
+      },
+      {
+        "amount": "4 oz",
+        "name": "Firm tofu",
+        "note": ""
+      },
+      {
+        "amount": "1 medium, thinly sliced",
+        "name": "Scallions",
+        "note": ""
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Soy sauce",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Bring broth or soup base and mushrooms to boil in medium saucepan.",
+      "Reduce heat and simmer until mushrooms are tender, about 5 minutes.",
+      "Stir in ginger. Add ramen noodles and tofu; simmer until noodles soften, about 3 minutes.",
+      "Pour into bowl and sprinkle with scallion. Serve with soy sauce, if desired."
+    ],
+    "notes": [],
+    "rating": 3,
+    "nutrition": {
+      "servings": "1 serving",
+      "calories": 320,
+      "protein": 19,
+      "fat": 9,
+      "carbs": 1.3,
+      "fiber": 44,
+      "sodium": 900
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "snack-plate",
+    "title": "Snack Plate",
+    "category": "Lunch",
+    "meal": "Lunch, Snack",
+    "protein": "Meatless",
+    "tags": [
+      "No bake",
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "2",
+        "name": "Egg",
+        "note": "boiled"
+      },
+      {
+        "amount": "1",
+        "name": "Cheese stick",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Edamame",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Veggies",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Berries",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Boil eggs",
+      "Grab cheese stick",
+      "Heat 1/2 cup edamame",
+      "Grab veggies or berries or choice"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": {
+      "servings": "1 Plate",
+      "calories": 330,
+      "protein": 31,
+      "fat": 18,
+      "carbs": 14,
+      "fiber": 4,
+      "sodium": 380
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "turkey-cheese-roll-up",
+    "title": "Turkey+Cheese Roll-Up",
+    "category": "Lunch",
+    "meal": "Lunch, Snack",
+    "protein": "Turkey",
+    "tags": [
+      "Healthy",
+      "No bake",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "6 slices",
+        "name": "Deli Turkey",
+        "note": ""
+      },
+      {
+        "amount": "1/2 cup",
+        "name": "Cottage cheese",
+        "note": ""
+      },
+      {
+        "amount": "1 small",
+        "name": "Cucumber",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Spread cottage cheese over turkey slices and roll-up.",
+      "Add mustard (if desired)"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": {
+      "servings": "6 Slices",
+      "calories": 240,
+      "protein": 32,
+      "fat": 6,
+      "carbs": 7,
+      "fiber": 1,
+      "sodium": 930
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "turkey-hummus-wrap",
+    "title": "Turkey-Hummus Wrap",
+    "category": "Lunch",
+    "meal": "Lunch, Snack",
+    "protein": "Turkey",
+    "tags": [
+      "No bake",
+      "Healthy",
+      "25g or more Protein"
+    ],
+    "ingredients": [
+      {
+        "amount": "1",
+        "name": "Tortilla",
+        "note": "high-protein"
+      },
+      {
+        "amount": "3 slices",
+        "name": "Deli turkey",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Hummus",
+        "note": ""
+      },
+      {
+        "amount": "desired amount",
+        "name": "Lettuce",
+        "note": ""
+      },
+      {
+        "amount": "desired amount",
+        "name": "Cucumber",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Assemble tortilla with ingredients"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": {
+      "servings": "1 Tortilla",
+      "calories": 285,
+      "protein": 32,
+      "fat": 9,
+      "carbs": 28,
+      "fiber": 12,
+      "sodium": 760
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "air-fryer-southwest-egg-rolls",
+    "title": "Air Fryer Southwest Egg Rolls",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 cup Corn",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Black Beans",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 Red Pepper, finely diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Jalapeno Pepper, finely diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Green Onions, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cups Chicken, shredded",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 cups Monterey Jack, shredded",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Ground Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Chili Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Egg",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "12 Egg Roll Wrappers",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Vegetable Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Zesty Dip:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Sour Cream or Greek Yogurt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Ranch Dressing",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Taco Seasoning",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. In a large bowl, mix Corn-Salt",
+      "2. In a small bowl, whisk egg and water together",
+      "3. Fill the Egg Roll Wrapper with mixture, then brush the edges with the egg wash mixture and fold.",
+      "4. Lightly brush oil on top of each egg roll",
+      "5. Air fry at 375 for 5 minutes. Flip and repeat.",
+      "Zesty Dip:",
+      "Mix ingredients, store in fridge.",
+      "Storage:",
+      "Fridge: Air-tight container for 4 days",
+      "Freezer: Cool completely, cover with plastic wrap and freeze for 4 hours. Transfer to freezer bag. Keeps for 6 months. Thaw before reheating.",
+      "Reheat at 350 for 5 minutes, flipping and repeating."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 31
+  },
+  {
+    "id": "cheesy-chicken-crockpot",
+    "title": "Cheesy Chicken Crockpot",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "6 Chicken Breasts",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P, Garlic Powder to taste",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 can Cream of Chicken",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Cheddar Cheese soup",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Parsley, chopped *Optional",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Hot cooked Pasta",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Season chicken with S&P and garlic powder. Add chicken to crockpot.",
+      "2. Combine cream of chicken and cheddar cheese soups, then pour on top of chicken",
+      "3. Cover and cook low 6-8 hours",
+      "4. Serve on top of pasta, top with parslet"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 33
+  },
+  {
+    "id": "cheesy-tortilla-soup",
+    "title": "Cheesy Tortilla Soup",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "4 cups Chicken Broth",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Nacho Cheese",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Rotel",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "½ pound Mozzarella",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Pinch Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Cream of Chicken",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 small can Pet Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Velveeta",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Chicken, cooked, desired amount",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In large pot, bring broth to boil",
+      "Add ingredients one at time, mixing well and returning to boil after each",
+      "Simmer ~25 minutes, until all ingredients mixed",
+      "Serve with Red or Blue Doritos"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 49
+  },
+  {
+    "id": "chicken-stuffing-crockpot",
+    "title": "Chicken & Stuffing Crockpot",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 cup All-Purpose Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4-6 Chicken Breasts",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cans Cream of Mushroom",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 package Stuffing Mix",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Combine flour and S&P to large bag. Add chicken and shake to coat.",
+      "2. Melt butter in skillet over medium-low heat, brown chicken on both sides. Add to crockpot, pour soup cans on top",
+      "3. Prepare stuffing according to package, decreasing liquids by half. Add on top of chicken",
+      "4. Cover and cook high 3-4 hours."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 34
+  },
+  {
+    "id": "chicken-tortilla-soup-instant-pot",
+    "title": "Chicken Tortilla Soup Instant Pot",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "4 cups Chicken Broth",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "14-oz DIced Tomatoes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Ground Coriander",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Oregano",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Garlic, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Jalapeno, sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Pinch Chili Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Pinch Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Chicken Breasts",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "14-oz Black Beans, drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "12-oz Sweet Corn, drained",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Add all ingredients to instant pot in order, without stirring.",
+      "Cover and Seal instant pot. Cook high pressure for",
+      "8 minutes. When done, let steam naturally release.",
+      "Remove chicken and shred, then return to pot.",
+      "Serve with rice, make quesadillas, eat alone, or more!"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 48
+  },
+  {
+    "id": "chipotle-chicken-stew-crockpot",
+    "title": "Chipotle Chicken Stew Crockpot",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pound Chicken Breasts",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Ground Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Bay Leaf",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Chipotle Pepper in adobo sauce, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Onion, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Navy Beans, rinsed and drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Black Beans, rinsed and drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Crushed Tomatoes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 cup Chicken Broth",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Orange Juice",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Combine all ingredients to crockpot.",
+      "2. Cover and cook low 7-8 hours or high 4 hours",
+      "3. Remove bay leaf. Optional: garnish with cilantro sprigs"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 32
+  },
+  {
+    "id": "japanese-steakhouse-chicken-with-veggies-and-white-sauce",
+    "title": "Japanese Steakhouse Chicken with Veggies and White Sauce",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "White Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/4 cup Mayo",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Melted Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Tomato Paste",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Cayenne Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Chicken & Veggies:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Salt to taste",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Lemon Pepper to taste",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Soy Sauce to taste",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Oil to fry Chicken",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Chicken & Veggies of choice",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "White Sauce",
+      "Mix all ingredients for sauce, set in fridge.",
+      "Chicken & Veggies",
+      "Season chicken & veggies of choice, then cook in small amount of oil until fully cooked.",
+      "Typical Preparation:Chicken in bite-size pieces. Veggies usually broccoli and zucchini but can be anything."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 40
+  },
+  {
+    "id": "mini-turkey-meatloaf",
+    "title": "Mini Turkey Meatloaf",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 Bell Pepper, dinced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Onion, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Carrots, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Ground Turkey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Egg Whites",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Ketchup",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Dried Thyme",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Dried Sage",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp S&P",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 425. Spray muffin pan with cooking spray",
+      "In skillet, saute onion, pepper, carrot for about 10 minutes.",
+      "Once veggies have cooked, place in fridge to cool ~10 minutes",
+      "Mix all ingredients together in large bowl (veggies, meat, and remaining items listed)",
+      "Add to muffin pan, fill muffin shape. *Place pan underneath muffin pan to catch drippings",
+      "Bake 20-25 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 55
+  },
+  {
+    "id": "penne-with-artichokes-and-basil",
+    "title": "Penne with Artichokes and Basil",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 pound Penne, cooked",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 tsp Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Ground Turkey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Red Onion, finely chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 Garlic Cloves, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 (9-ounce) package Frozen, thawed Artichoke Hearts",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Basil, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/3 cup grated Pecorino or Parmesan",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Heat 2 tsps oil in skillet over medium-high heat.",
+      "2. Add turkey-S&P, using ½ of garlic,, breaking turkey apart and cooking through",
+      "3. Transfer cooked turkey to bowl",
+      "4. Add remaining 2 tsp oil on medium heat",
+      "5. Add artichokes and remaining ½ of garlic, to skillet.",
+      "6. Cover and cook for ~5 minutes, until artichoke cooked",
+      "7. Add pasta and 1/2 cup pasta water to skillet until heated",
+      "8. Add bowl of turkey mix to pasta and cook until 2 minutes",
+      "9. Remove from heat and stir in basil and cheese"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 53
+  },
+  {
+    "id": "quick-bbq-chicken-breast",
+    "title": "Quick BBQ Chicken Breast",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/4 cup Ketchup",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Apple Cider Vinegar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tbsp Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Garlic Cloves, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Ground Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "6 Chicken Breasts",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Spray grill, preheat to medium fire",
+      "In small bowl, make glaze by mixing ketchup-garlic.",
+      "In separate bowl or bag, add chicken and paprika-S&P",
+      "Add chicken to grill, turning often until cooked (~10 minutes).",
+      "Brush glaze on chicken and keep on heat an additional one minute, then remove from heat."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 47
+  },
+  {
+    "id": "quick-chicken-dumplings",
+    "title": "Quick Chicken & Dumplings",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "4 cups Chicken Broth",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 can Biscuits",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cans Chicken, drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "You can adjust the amount of biscuits and chicken to your liking",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In a large pot, add chicken broth and bring to boil",
+      "Quarter and flour biscuits",
+      "When broth boiling, bring heat to medium and add floured biscuits.",
+      "Cook for 5-10 minutes, then add chicken.",
+      "Cook another 5-10 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 46
+  },
+  {
+    "id": "quick-chicken-pot-pie",
+    "title": "Quick Chicken Pot Pie",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 9-inch Pie Crusts",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Mix Veggies",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cups Chicken, canned",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Cream of Chicken",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Milk",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350",
+      "In bowl, mix veggies, chicken, and cream of chicken",
+      "Slowly mix in milk, stirring and avoid making it runny",
+      "Pour mix into one pie crust, top with other pie crust, sealing edges and creating slits on top",
+      "Bake 30 minutes or until golden brown"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 50
+  },
+  {
+    "id": "sesame-turkey-stir-fry",
+    "title": "Sesame Turkey Stir-Fry",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 tsp Canola Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Red Bell Pepper, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Carrot, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Garlic Cloves, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Ginger, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Ground Turkey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 Scallions, thinly sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Frozen Peas, thawed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Soy Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Sesame Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/8 tsp Red Pepper Flakes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Cilantro, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/3 cups Rice, cooked",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Sesame Seeds, toasted",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Heat oil in large skillet over medium-high heat. Add pepper & carrot for ~3 minutes.",
+      "2. Add garlic & ginger, cook ~30 seconds.",
+      "3. Add turkey and cook through, ~5 minutes.",
+      "4. Add scallions, cook ~1 minute.",
+      "5. Stir in peas-pepper flakes, cook ~2minues.",
+      "5. Remove from heat and stir in cilantro.",
+      "6. Serve with rice, top with sesame seeds."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 52
+  },
+  {
+    "id": "turkey-spinach-burgers",
+    "title": "Turkey Spinach Burgers",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pound Ground Turkey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "10 ounces Spinach",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 package Taco Seasoning",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix all ingredients together",
+      "Form patties",
+      "Grill until meat cooked through"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 56
+  },
+  {
+    "id": "turkey-basil-stir-fry",
+    "title": "Turkey-Basil Stir-Fry",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "4 ounces Rice noodles",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3/4 cup Chicken Broth",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 tbsp Soy Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Cornstarch",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Ground Turkey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 tsp Canola Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 Garlic Cloves, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 tsp Ginger, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Red Pepper flakes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 cups Broccoli Florets",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Orange Bell Peppers, thinly sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 Scallions, thinly sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Fresh Basil, chopped",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Cook noodles and drain according to package",
+      "In small bowl, mix broth, soy sauce, and cornstarch",
+      "Heat wok on medium-high heat, add oil, turkey, and salt",
+      "Transfer turkey to plate, add remaining ingredients except basil to wok. Cook until fragrant and al dente.",
+      "Add turkey, noodles to wok until heated. Whisk broth once more, than add to wok and bring to boil until thickened, about 1 minute",
+      "Remove from heat and top with basil."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 54
+  },
+  {
+    "id": "turkish-turkey-pita-pizza",
+    "title": "Turkish Turkey Pita Pizza",
+    "category": "Poultry",
+    "meal": "Poultry",
+    "protein": "",
+    "tags": [
+      "Poultry"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 tsp Canola Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3/4 pound Ground Turkey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Red Onion, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 Garlic Cloves, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/4 tsp Ground Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Small Pinch Cinnamon",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "8-ounce can Tomato Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 Whole Wheat Pita Breads",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Tomato, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Cilantro, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Mozzarella, shredded",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Preheat oven 475, spray 2 baking sheets",
+      "2. Heat oil in skillet on medium heat. Add turkey and onion until done, ~6 minutes.",
+      "3. Add garlic - cinnamon, cook ~1 minute.",
+      "4. Stir in tomato sauce, cook ~2 minutes. TUrn off heat.",
+      "5. Place pita bread on baking sheets, top with turkey mixture.",
+      "6. Bake 8 minutes.",
+      "7. Top with tomato, cilantro, and mozzarella"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 51
+  },
+  {
+    "id": "baked-meatballs",
+    "title": "Baked Meatballs",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pound Ground Beef",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 package Onion Soup Mix",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Egg",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Bread crumbs - to taste",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 350",
+      "Mix all together, make 1 inch balls",
+      "Add to baking dish that has a lip to catch drippings",
+      "Bake for 30 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 63
+  },
+  {
+    "id": "bbq-beef-crockpot",
+    "title": "BBQ Beef Crockpot",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "3 pound Boneless Chuck Roast",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Onion Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "18-ounces BBQ sauce",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Add all ingredients to crock pot",
+      "Cook low 6-8 hours",
+      "Shred, cook 1 more hour",
+      "Great as burger, or with mashed potatoes and green beans."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 68
+  },
+  {
+    "id": "brown-sugar-meatloaf",
+    "title": "Brown Sugar Meatloaf",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 cup Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Ketchup",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 pounds Ground Beef",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Black Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Onion, grated",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Ground Ginger",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3/4 cup Crushed Crackers",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 350",
+      "Mix ingredients all together well",
+      "Shape to loaf, put in pan with eging to catch drippings",
+      "Cook 1 hour"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 66
+  },
+  {
+    "id": "brown-sugar-pork-loin",
+    "title": "Brown Sugar Pork Loin",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 tsp S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Chili Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Cinnamon",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 tbsp Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Garlic, finely minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Hot Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Pork Loin",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 350",
+      "Add oil to skillet and heat to medium-high heat.",
+      "Mix S&P, cumin, chili, & cinnamon. Coat pork with it.",
+      "Add pork to skillet, browning all sides",
+      "Mix sugar, garlic, & hot sauce.",
+      "Once pork is browned on each side, remove from heat and coat with brown sugar mix.",
+      "Place pork in deep pan, to catch drippings.",
+      "Bake 25 minutes. Remove and rest for 10 minutes."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 73
+  },
+  {
+    "id": "brown-sugar-pork-loin-2",
+    "title": "Brown Sugar Pork Loin",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tsp Onion Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1-3 tbsp Chili Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 tbsp Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Pork Loin",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix seasoning in a large bag. Add pork to bag and let sit 15 minutes.",
+      "Grill on medium-high heat for 20 minutes, rotating every 5 minutes",
+      "OR",
+      "Bake at 350 for 25 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 74
+  },
+  {
+    "id": "crockpot-pot-roast",
+    "title": "Crockpot Pot Roast",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 1/2 tbsp Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 pound Chuck Roast",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Yellow Onion, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "5 cloves Garlic, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/4 cup Beef Broth",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Worcestershire Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Thyme, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Rosemary, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 1/2 pounds Gold Potatoes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Carrots",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 1/2 tbsp Cornstarch*",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Parsley, chopped",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Season roast with S&P, add 1 tbsp oil to medium-high heated pan and brown roast on both sides, ~5 minutes each. Then place in crockpot.",
+      "Add 1/2 tbsp oil to pan, cook onion, ~2 minutes. Add garlic to onion, ~30 seconds. Add to crockpot.",
+      "In pan, add broth, worcestershire, thyme, and rosemary. Scrape brown bits from bottom of pan. Heat to boil.",
+      "Add potatoes and carrots to crock pot.",
+      "Pour broth from pan on top.",
+      "Cook low 8-9 hours",
+      "*To thicken sauce (optional), add cornstarch to crock pot after it finishes cooking.",
+      "Top with parsley and enjoy!"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 69
+  },
+  {
+    "id": "easy-meatloaf",
+    "title": "Easy Meatloaf",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 1/2 pound Ground Beef",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 package Onion Soup Mix",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Ketchup",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1-2 cups fine Cracker Crumbs",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 350",
+      "Mix all ingredients together",
+      "Form into loaf, put into baking pan with sides to catch drippings.",
+      "Bake 1 hour, or until inside done."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 67
+  },
+  {
+    "id": "fried-pork-chops",
+    "title": "Fried Pork Chops",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 cup Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 pound boneless Pork Chops",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Vegetable Oil",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In skillet, heat oil on medium-high heat",
+      "Mix flour and S&P together in bowl",
+      "Trim and rinse pork chops, drying well",
+      "Coat pork chops in flour mix well",
+      "Fry pork chops ~1 minute each side, or until brown"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 72
+  },
+  {
+    "id": "instant-pot-meatloaf-potatoes",
+    "title": "Instant Pot  Meatloaf & Potatoes",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "Potatoes:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "7 medium Russet Potatoes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Chicken Stock",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S & P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Sauce:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Ketchup",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Brown Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Meatloaf:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 pounds lean Ground Beef",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Bread Crumbs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Minced Onion",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Parsley",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup BBQ Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S & P",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "- Add meatloaf to top of potatoes",
+      "- Seal & pressure cook for 25 minutes. Let naturally release for 10 minutes.",
+      "-Once done, open and remove meatloaf, top with sauce.",
+      "-Mash the potatoes and add remaining seasonings to them.",
+      "Meatloaf:",
+      "1. Combine ingredients in bowl.",
+      "2. Place meat on top of foil and shape into loaf.",
+      "3. Bring foil sides up around loaf",
+      "Potatoes:",
+      "1. Peel & dice potatoes into cubes",
+      "2. Place in Instant Pot and add 1 cup chicken broth",
+      "Sauce:",
+      "1. Mix all ingredients, Set aside."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 58
+  },
+  {
+    "id": "lasagne",
+    "title": "Lasagne",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pound Ground Beef",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "6 oz Tomato Paste",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Oregano",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "8 oz Mozzarella",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cloves Garlic, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Tomatoes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3/4 tsp Black Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "8 oz Lasagna noodles",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "24 oz Cottage Cheese",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Present oven 350",
+      "Brown & drain beef. Cook noodles according to package.",
+      "Add tomato paste - black pepper to beef, stir.",
+      "Cover and simmer for 20 minutes",
+      "In baking pan, layer: meat, noodle, cottage & mozzarella cheese",
+      "Top with parmesan cheese",
+      "Bake 45 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 61
+  },
+  {
+    "id": "monterey-casserole",
+    "title": "Monterey Casserole",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pound Hamburger Meat",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Cream of Chicken",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Ranch Style Beans",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Rotel",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Corn Tortillas, cut to 2” pieces",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Velveeta, cut to 1” cubes",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350. Grease casserole dish.",
+      "In a bowl, mix meat-rotel",
+      "Layer:",
+      "Tortilla",
+      "Mixture",
+      "Velveeta",
+      "Bake 350 for about 30 minutes, or until cheese melted"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 60
+  },
+  {
+    "id": "mushroom-beef-stew-crockpot",
+    "title": "Mushroom-Beef Stew Crockpot",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pound Beef Stew Meat",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Cream of Mushroom",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "8-ounces Mushrooms",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pkg Onion Soup Mix",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Egg Noodles, cooked",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Combine everything but noodles into crockpot, stir.",
+      "2. Cover, cook low 8-10 hours",
+      "3. Serve over noodles"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 59
+  },
+  {
+    "id": "pork-katsu-curry",
+    "title": "Pork Katsu Curry",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "Meat:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 Pork Chops",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 Cup COLD Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S & P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cups Panko Bread Crumbs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Oil to fry",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Curry:",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Onion, Sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Carrot, Cubed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Potatoes, Cubed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Black Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pack Curry Mix",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 cups Water",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Pork Katsu:",
+      "S&P both sides of pork.",
+      "In bowl, add eggs, flour, and water. Add more flour or water until a think but smooth consistency.",
+      "Coat the pork chops in the batter, then Panko. Make sure every part of pork chops is coated well.",
+      "In pan, add oil and heat. Once hot, add pork chops, frying about 4 minutes each side until golden brown.",
+      "Remove cooked pork chops and let rest on paper towel.",
+      "Curry:",
+      "In pot, drizzle oil and heat to medium-high",
+      "Add onion, saute until translucent (~5 minutes)",
+      "Add vegetables and saute ~2 minutes",
+      "Add 3 cups of water and simmer for 10 minutes on low heat.",
+      "Add broken curry mix and stir thoroughly.",
+      "Add Pepper and simmer another 10-15 minutes on low heat."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 70
+  },
+  {
+    "id": "sage-pork-chops",
+    "title": "Sage Pork Chops",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "4 pork chops, cleaned",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Rubbed Sage",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Minced Garlic (dry is best!)",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Thyme Leaves",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Ground Allspice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Paprika",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix seasonings together",
+      "Rub on pork chops",
+      "Cook on skillet or in oven"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 71
+  },
+  {
+    "id": "southwest-vegetable-soup",
+    "title": "Southwest Vegetable Soup",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pound Ground Beef",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "5 cup Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Mexican-style Tomatoes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Black Beans, drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Kidney Beans, drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Whole Kernel Corn, drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Pinto Beans, drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Tomato Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Green Beans, drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Chili Seasoning mix",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In large pot on medium-high heat, bring all ingredients to a boil.",
+      "Once boiling, turn back heat and simmer, stirring occasionally, for 2 hours",
+      "Serve with corn bread or rice."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 64
+  },
+  {
+    "id": "spaghetti-carbonara",
+    "title": "Spaghetti Carbonara",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "8 ounces Spaghetti",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup grated Parmesan",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 slices Bacon, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 cloves Garlic, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P to taste",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Parsley, chopped",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Cook spaghetti to box directions",
+      "Whisk and set aside eggs & parmesan",
+      "Cook bacon",
+      "Add garlic to bacon when finished, 1 minute on low heat",
+      "Add cooked pasta & remaining ingredients",
+      "Add tbsp of pasta water as needed to create creamy consistency"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 75
+  },
+  {
+    "id": "spaghetti-pie",
+    "title": "Spaghetti Pie",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "8-10 ounces Spaghetti, cooked",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/3 cup Parmesan Cheese",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Ground Beef, cooked",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cups Mozzarella, shredded",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "8 ounces Cottage Cheese",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Pasta Sauce",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 350, grease pie pan",
+      "Add butter, parmesan, and eggs to cooked spaghetti. Be sure to not make scrambled eggs!",
+      "In separate bowl, combine meat and sauce",
+      "Form crust in pie pan with spaghetti mix.",
+      "Add cottage cheese on top of spaghetti (like the pizza sauce of a pizza)",
+      "Top with meat mix in middle",
+      "Cook 30-45 minutes",
+      "Add mozzarella on top. Cook additional 5 minutes."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 62
+  },
+  {
+    "id": "zucchini-boats",
+    "title": "Zucchini Boats",
+    "category": "Red Meat",
+    "meal": "Red Meat",
+    "protein": "",
+    "tags": [
+      "Red Meat"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "Large Zucchini",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Ground Beef",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Onion",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Mushroom",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Bell Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Taco Seasoning",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350. On baking sheet, add foil and cooking spray.",
+      "Prep the zucchini by cutting the ends off, slice in half long-ways, scoop pulp from center and save it.",
+      "Prep veggies by dicing them into small cubes.",
+      "In skillet, cook ground beef and drain.",
+      "Add pulp and diced veggies, saute until veggies soften.",
+      "Add desired taco seasoning amount. Cook ~2 minutes, remove from heat.",
+      "Put zucchini boats on foiled and sprayed baking sheet. Fill boats with beef mix. Top with desired cheese.",
+      "Bake 30 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 65
+  },
+  {
+    "id": "baja-shrimp-tacos",
+    "title": "Baja Shrimp Tacos",
+    "category": "Seafood",
+    "meal": "Seafood",
+    "protein": "",
+    "tags": [
+      "Seafood"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tbsp Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 pounds Shrimp",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Chili Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Cumin",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/3 cup Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Sour Cream",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Chipotle Adobe Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Lime Juice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Tortillas of choice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Purple Cabbage, shredded",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Cilantro",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Avocado slices",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Cotija Cheese",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Heat pan on medium-high heat with oil.",
+      "2. Mix Shrimp-Flour in pan and cook through, ~6minutes",
+      "3. In separate bowl, mix sour cream-salt and set aside",
+      "Assemble on tortilla with desired sides and enjoy"
+    ],
+    "notes": [
+      "Serve with:"
+    ],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 25
+  },
+  {
+    "id": "oven-baked-salmon",
+    "title": "Oven Baked Salmon",
+    "category": "Seafood",
+    "meal": "Seafood",
+    "protein": "",
+    "tags": [
+      "Seafood"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 Salmon fillets",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Black Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Butter, melted",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 450",
+      "Line a baking sheet with foil and cooking spray",
+      "Put salmon on sheet, skin-side down",
+      "Brush with melted butter",
+      "Generously add seasonings",
+      "Bake for 12-16 minutes, or until cooked through",
+      "Serve with lemon slices and/or dill as garnish"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 29
+  },
+  {
+    "id": "sauteed-shrimp-in-10-min",
+    "title": "Sauteed Shrimp in 10 min.",
+    "category": "Seafood",
+    "meal": "Seafood",
+    "protein": "",
+    "tags": [
+      "Seafood"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 pounds Shrimp, deveined & cleaned",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Ground Turmeric Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Sea Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Black Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Fresh Lemon Juice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Oil or Butter for sauteing",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Have patted-dried shrimp in large bowl. Add seasonings (turmeric-paprika) and mix.",
+      "Heat oil/butter in skillet on medium heat. Add shrimp until even layer created, don’t overfill.",
+      "Cook 1-2 minutes per side, until cooked through.",
+      "Remove from heat.",
+      "Squeeze lemon over shrimp and toss to combine."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 27
+  },
+  {
+    "id": "abc-dip",
+    "title": "ABC Dip",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 package of Almonds",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 package Bacon Bits",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 package American & Cheddar Cheese",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Bunch of Green Onions",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Miracle Whip",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix together, add Miracle Whip until thick",
+      "Keep chilled"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 15
+  },
+  {
+    "id": "broccolini-with-bacon",
+    "title": "Broccolini with Bacon",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "3 quarts Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Broccolini",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 Bacon Slices",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Sweet Onion, diced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Chicken Broth",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Bring water to boil, add broccolini and bring to boil, cook for 4 minutes and drain",
+      "2. In skillet, cook bacon until done, remove and crumble bacon.",
+      "3. In bacon skillet, ass onion and saute 4 minutes, add S&P",
+      "4. Add broccolini to skillet, turn off heat, and top with bacon crumbles."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 5
+  },
+  {
+    "id": "cheddar-broccoli-orzo",
+    "title": "Cheddar Broccoli Orzo",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tbsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "6 oz Dry Whole Wheat Orzo",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cloves Garlic, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cups Chicken Broth",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 oz Broccoli, finely chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 oz Sharp Cheddar, shredded",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Mustard Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Parsley, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Pepper, to taste",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Heat a large skillet over medium-high heat. Add butter until melted, then add Orzo. Cook ~3 minutes, until brown",
+      "Add garlic and cook together, ~1 minute",
+      "Add broth, bring to boil. Cover and simmer 5 minutes.",
+      "Add broccoli, cover and simmer 10 minutes.",
+      "Remove from heat, add remaining cheese and remaining seasonings."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 6
+  },
+  {
+    "id": "cheese-sticks",
+    "title": "Cheese Sticks",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "⅔ cup Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/3 cup Cornstarch",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 cup Italian Breadcrumbs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Garlic Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Italian Spices",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Mozzarella cheese in stick form (Can be block that is cut or",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "premade cheese sticks.)",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Heat fryer to 350",
+      "Mix flour and cornstarch in one bowl",
+      "Mix eggs and water in another bowl",
+      "Mix breadcrumbs, garlic, and spices in third bowl.",
+      "Dip cheese in flour mix, egg mix, then crumb mix",
+      "Fry until golden brown"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 16
+  },
+  {
+    "id": "cinnamon-apple-chips",
+    "title": "Cinnamon Apple Chips",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "4 Apples",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Cinnamon",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Sugar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Cooking Spray",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 200. Spray baking sheet with cooking spray",
+      "Thinly slice apples",
+      "Coat apples with cinnamon and sugar",
+      "Bake 2-3 hours",
+      "Keep in airtight container, lasts up to 4 days"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 22
+  },
+  {
+    "id": "corn-casserole",
+    "title": "Corn Casserole",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 cup Melted Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 box Jiffy Cornbread Mix",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Whole Kernel Corn, drained",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 can Cream Corn",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Sour Cream",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350",
+      "Mix all ingredients together until well combined.",
+      "Add to baking pan",
+      "Bake at 350 for 45 minutes or until golden brown"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 11
+  },
+  {
+    "id": "crispy-zucchini-coins",
+    "title": "Crispy Zucchini Coins",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 cup Italian Breadcrumbs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 tbsp Parmesan Cheese, grated",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 cups Zucchini, thinly sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Egg Whites",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 450. Coat baking sheet with cooking spray.",
+      "Combine bread crumbs, cheese, and pepper in shallow dish",
+      "In separate dish, lightly beat egg whites",
+      "Dip zucchini in eggs, then coat in breadcrumbs mix.",
+      "Place on baking sheet",
+      "Bake 20 minutes, flipping halfway through."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 9
+  },
+  {
+    "id": "dirty-rice-crockpot",
+    "title": "Dirty Rice Crockpot",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1/2 pound Italian Sausage",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cups Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup uncooked Long Grain Rice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Onion, finely chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Green Bell Pepper, finely chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Celery, finely chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Ground Red Pepper",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Brown sausage in skillet for 8 minutes over medium-high heat, breaking up meat. Place into crockpot",
+      "2. Stir remaining ingredients into crockpot.",
+      "3. Cover and cook low 2 hours"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 23
+  },
+  {
+    "id": "fried-rice",
+    "title": "Fried Rice",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "3 cups cooked Rice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Sesame Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Onion, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Peas & Carrots",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2-3 tbsp Soy Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Eggs",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Green Onions",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In pan, on medium heat add the Oil and Onion, cook until transparent.",
+      "Move onion to side, add peas & carrorts, soy sauce and cook until heated.",
+      "Move all items in pan to side, add eggs and cook through",
+      "Turn off heat and top with green onion"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 17
+  },
+  {
+    "id": "green-beans-bacon",
+    "title": "Green Beans & Bacon",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 pounds Fresh Green Beans",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "8 strips Bacon, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 tbsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S & P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Diced potatoes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Diced White Onion",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Minced Garlic",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Steam green beans until soft",
+      "2. Cook bacon",
+      "3. Add all ingredients to pot, cook on medium-high heat until warmed.",
+      "This recipe calls for all ingredients to be cooked separately, then combined and heated at the end."
+    ],
+    "notes": [
+      "Optional:"
+    ],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 3
+  },
+  {
+    "id": "green-beans-mushrooms",
+    "title": "Green Beans & Mushrooms",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 tbsp Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "16–ounces Green Beans",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "16-ounces Button Mushrooms, sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Garlic Cloves, thinly sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Thyme Leaves, roughly chopped for topping",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Heat oil in large skillet over medium-high heat",
+      "2. Add green beads, cook covered until bright, ~5 minutes",
+      "3. Add mushrooms, cook covered an additional 5 minutes",
+      "4. Add garlic and S&P, cook uncovered for ~2 minutes",
+      "5. Remove from heat, sprinkle with thyme"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 4
+  },
+  {
+    "id": "homemade-mashed-potatoes",
+    "title": "Homemade Mashed Potatoes",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "5 pounds Potatoes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 sticks Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 8-ounce Cream Cheese",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Black Pepper",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Boil Potatoes in water until soft.",
+      "Drain",
+      "Mash & mix in remaining ingredients"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 13
+  },
+  {
+    "id": "honey-ginger-noodles",
+    "title": "Honey Ginger Noodles",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "8 ounces Cooked Noodles",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Honey",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Soy Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Sesame Seeds",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Ground Ginger",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Red Pepper Flakes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Green Onion for topping",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Mix Honey-Pepper, set aside",
+      "Add oil on medium-high heat",
+      "Add noodles and cook for 2 minutes",
+      "Add mixture, cook 5 minutes on medium–low",
+      "Top with diced green onions"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 20
+  },
+  {
+    "id": "mexican-rice",
+    "title": "Mexican Rice",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 tbsp Vegetable Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Rice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "8-ounces Tomato Sauce",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "16 ounces Water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Chili Powder*",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Tomato Bouillon*",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Garlic, minced",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "In saucepan, heat oil on medium-high heat. Add rice and brown.",
+      "Add remaining ingredients in slowing and stir well",
+      "Boil. Once boiling, bring to low heat and simmer 20 minutes with lid on",
+      "Remove from heat, rest 5-10 minutes covered",
+      "Fluff and eat",
+      "*Cut back for less spice. I do 1/2 chili powder and 1/2 - 1 tsp tomato bouillon."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 18
+  },
+  {
+    "id": "new-year-cabbage",
+    "title": "New Year Cabbage",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tbsp Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Cabbage",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P to flavor",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Chicken Broth",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Heat oil in pan on medium heat, add butter, cabbage, S&P",
+      "On low heat, let simmer for 5 minutes",
+      "Add broth, bring to boil then cover and simmer on medium-low for 15 minutes",
+      "Raise heat to medium-high, uncover and cook for 5 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 10
+  },
+  {
+    "id": "parmesan-asparagus",
+    "title": "Parmesan Asparagus",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "Fresh Asparagus",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Oregano, dired",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Parmesan Cheese, grated",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 425. Spray baking sheet with cooking spray",
+      "Mix oil, salt, and oregano in large bowl. Wash asparagus and dry.",
+      "Toss asparagus into oil mix and coat well",
+      "Lay flat on baking sheet, bake 10 minutes",
+      "Top with parmesan cheese, bake additional 5-8 minutes."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 7
+  },
+  {
+    "id": "potato-hash",
+    "title": "Potato Hash",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 Russet Potato",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Sweet Potato",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 tbsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Bell Pepper, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Squash, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Zucchini, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 cup Onion, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Poke & Microwave potatoes until soft, then chop",
+      "With skillet on medium heat, add butter",
+      "Add remaining ingredients and cook",
+      "Add potatoes last, once other veggies are cooked",
+      "Cook for 5-10 minutes"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 14
+  },
+  {
+    "id": "red-potatoes-recipe",
+    "title": "Red Potatoes Recipe",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 tsp Vegetable Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Parmesan Cheese",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Garlic Powder",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Paprika",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Black Pepper",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 pounds Red Potatoes, halved",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400, coat pan with veg oil",
+      "Mix all ingredients together, put in pan",
+      "Cook 15-20 minutes, flip and repeat",
+      "I like doubling the seasoning!"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 12
+  },
+  {
+    "id": "sausage-balls",
+    "title": "Sausage Balls",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "3 cup Bisquick",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 pound Sausage (Jimmy Dean)",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 cup Cheddar Cheese, shredded",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Parmesan Cheese, grated",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Rosemary Leaves, crushed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 1/2 tsp Parsley, chopped",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Preheat oven 350",
+      "Mix all ingredients (Works great in Kitchen Aid)",
+      "Form 1 on balls",
+      "Add to baking sheet",
+      "Bake 20-25 minutes, until meat cooked"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 2
+  },
+  {
+    "id": "verde-sauce-green-sauce",
+    "title": "Verde Sauce/Green Sauce",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "5 tomatillos, husk removed, washed and quartered",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 cloves Garlic, roughly chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Cilantro, small handful",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 cup water",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "3 Serrano Chili Peppers, rough chopped *Adjust for spiciness",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Salt, generous pinch",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 Avocado",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Add ingredients to blender and blend to desired consistency"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 19
+  },
+  {
+    "id": "zesty-citrus-chickpea-salad",
+    "title": "Zesty Citrus Chickpea Salad",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 pound Chickpeas, cooked",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Lemon Zest",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Orange Zest",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Lime Zest",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 Yellow Bell Pepper, finely cubed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 Red Bell Pepper, finely cubed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 Red Onion, finely cubed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 Green Apple, finely cubed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/3 cup Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Wine Vinegar",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "S&P to taste",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Mix together chickpeas-apple",
+      "2. Drizzle with oil, vinegar, S&P",
+      "3. Mix and enjoy",
+      "Served chill"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 21
+  },
+  {
+    "id": "zucchini-fries",
+    "title": "Zucchini Fries",
+    "category": "Sides",
+    "meal": "Sides",
+    "protein": "",
+    "tags": [
+      "Sides"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "1 1/2 tbsp All-Purpose Flour",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tsp Italian Seasoning",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 Salt x2",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Panko",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 tbsp Olive Oil",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Egg Whites",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Zucchini, cut into fry-size",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Lemon Wedges",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Preheat oven to 425, line large baking sheet with parchment paper or nonstick foil.",
+      "2. In bowl, mix flour, italian seasoning, & salt.",
+      "3. In another bowl, mix bread crumbs and oil.",
+      "4. In third bowl, mix egg whites and salt, mix until peaks form",
+      "5. Dip zucchini in flour, then egg, then bread crumbs.",
+      "6. Arrange in single layer on sheet, spray with olive oil nonstick cooking spray",
+      "7. Bake about 12 minutes, flipping once. Serve with lemon wedges."
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 8
+  },
+  {
+    "id": "fruit-salsa",
+    "title": "Fruit Salsa",
+    "category": "Snack",
+    "meal": "Snack",
+    "protein": "Meatless",
+    "tags": [
+      "No bake",
+      "Fruity"
+    ],
+    "ingredients": [
+      {
+        "amount": "1/2 cup",
+        "name": "Strawberries",
+        "note": ""
+      },
+      {
+        "amount": "1",
+        "name": "Peach",
+        "note": ""
+      },
+      {
+        "amount": "1/2 tsp",
+        "name": "Ground cinnamon",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Dice fruit",
+      "Top with cinnamon"
+    ],
+    "notes": [],
+    "rating": 5,
+    "nutrition": {
+      "servings": 1,
+      "calories": 125,
+      "protein": 2,
+      "fat": 0.7,
+      "carbs": 32,
+      "fiber": 6,
+      "sodium": 2
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "guacamole-snack",
+    "title": "Guacamole Snack",
+    "category": "Snack",
+    "meal": "Snack",
+    "protein": "Meatless",
+    "tags": [
+      "No bake",
+      "Healthy"
+    ],
+    "ingredients": [
+      {
+        "amount": "2 small",
+        "name": "Cucumber",
+        "note": ""
+      },
+      {
+        "amount": "2 tbsp",
+        "name": "Guacamole",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "Chopped veggies into sticks",
+      "Serve with guacamole"
+    ],
+    "notes": [],
+    "rating": 3,
+    "nutrition": {
+      "servings": 1,
+      "calories": 55,
+      "protein": 2,
+      "fat": 4,
+      "carbs": 7,
+      "fiber": 2,
+      "sodium": 110
+    },
+    "source": "Recipe workbook",
+    "slide": null
+  },
+  {
+    "id": "edamame-tostadas",
+    "title": "Edamame Tostadas",
+    "category": "Vegetarian",
+    "meal": "Vegetarian",
+    "protein": "",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "2 cups Frozen Shelled Edamame",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 avocado, mashed",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Cilantro, chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 Scallions, finely chopped",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Lime Juice",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1 Garlic Clove, minced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 tsp Red Pepper Flakes",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 Corn Tostadas",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 cups Romaine Lettuce,",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "shredded",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Red Onion,",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "thinly sliced",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/4 cup Plain Fat-Free Yogurt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "Cracked Black Pepper",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. Cook edamame to package. Drain and rinse under cool water.",
+      "2. Add edamame to bowl and crush with potato masher.",
+      "3. Add avocado - pepper flakes.",
+      "4. Spread edamame mix on tostada",
+      "5. Top with lettuce, tomatoes, onion, and yogurt. Sprinkle with black pepper"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 80
+  },
+  {
+    "id": "mac-cheese-crockpot",
+    "title": "Mac & Cheese Crockpot",
+    "category": "Vegetarian",
+    "meal": "Vegetarian",
+    "protein": "",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "amount": "",
+        "name": "6 cups cooked Elbow Macaroni",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tbsp Butter",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "4 cups Evaporated Milk",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "6 cups Cheddar Cheese, shredded",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "2 tsp Salt",
+        "note": ""
+      },
+      {
+        "amount": "",
+        "name": "1/2 tsp Black Pepper",
+        "note": ""
+      }
+    ],
+    "instructions": [
+      "1. In large bowl, toss macaroni with butter. Stir in milk, cheese, S&P.",
+      "2. Add to crockpot, cover and cook high 2-3 hours"
+    ],
+    "notes": [],
+    "rating": null,
+    "nutrition": null,
+    "source": "Family recipe collection",
+    "slide": 79
+  }
+]
