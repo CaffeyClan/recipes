@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Our Family Meals",
-  description: "Our family recipe collection—favorites, old standbys, and dishes worth remembering.",
+  title: "The Caffey Clan Kitchen",
+  description: "Made with love, laughter, and a little chaos.",
   other: {
     "codex-preview": "development",
   },
