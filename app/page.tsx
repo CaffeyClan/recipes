@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useMemo, useState } from "react";
-import { BookOpen, ChefHat, MessageCircle, Pencil, Plus, Search, Star, Users } from "lucide-react";
+import { BookOpen, ChefHat, Heart, MessageCircle, Pencil, Plus, Search, Sparkles, Star, Users, Utensils } from "lucide-react";
 import recipesData from "./data/recipes.json";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
@@ -73,12 +73,20 @@ export default function Home() {
   }, [query, filter]);
 
   return <main>
-    <header className="topbar"><a className="brand" href="#top" aria-label="The Caffey Clan Kitchen home"><span><ChefHat aria-hidden="true" /></span><strong>The Caffey Clan Kitchen</strong></a><div className="topbar-actions"><div className="family-count"><Users aria-hidden="true" /> Made for our clan</div><a className="add-recipe-link" href={`${repositoryUrl}/blob/main/recipes/README.md`} target="_blank" rel="noreferrer"><Plus aria-hidden="true" /> Add Recipe</a></div></header>
+    <header className="topbar"><a className="brand" href="#top" aria-label="The Caffey Clan Kitchen home"><span><ChefHat aria-hidden="true" /></span><strong>The Caffey Clan Kitchen</strong></a><nav className="topbar-nav" aria-label="Main navigation"><a href="#about">Meet the Clan</a><a href="#recipes">Raid the Recipes</a></nav><div className="topbar-actions"><div className="family-count"><Users aria-hidden="true" /> Made for our clan</div><a className="add-recipe-link" href={`${repositoryUrl}/blob/main/recipes/README.md`} target="_blank" rel="noreferrer"><Plus aria-hidden="true" /> Add Recipe</a></div></header>
     <section className="hero" id="top">
-      <div className="hero-copy"><p className="eyebrow"><BookOpen aria-hidden="true" /> The clan recipe box</p><h1>The Caffey Clan Kitchen</h1><p>Made with love, laughter, and a little chaos.</p><div className="search-wrap"><Search aria-hidden="true" /><Input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search recipes or ingredients…" aria-label="Search recipes or ingredients" /></div></div>
+      <div className="hero-copy"><p className="eyebrow"><BookOpen aria-hidden="true" /> The clan recipe box</p><h1>The Caffey Clan Kitchen</h1><p>Made with love, laughter, and a little chaos.</p><div className="hero-actions"><a className="primary-cta" href="#recipes"><Utensils aria-hidden="true" /> Raid the Recipes</a><a className="secondary-cta" href="#about">Meet the Clan</a></div><div className="search-wrap"><Search aria-hidden="true" /><Input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search recipes or ingredients…" aria-label="Search recipes or ingredients" /></div></div>
       <div className="hero-image"><Image src={`${basePath}/family-table.png`} alt="A family table filled with homemade dishes" fill priority sizes="(max-width: 760px) 100vw, 48vw" /><span>{recipes.length} recipes</span></div>
     </section>
-    <section className="library" aria-label="Recipe library">
+    <section className="about" id="about" aria-labelledby="about-title">
+      <div className="about-copy"><p className="eyebrow"><Heart aria-hidden="true" /> Meet the Clan</p><h2 id="about-title">Pull up a chair. There’s always room at our table.</h2><p>We’re the Caffey Clan—a family of six with a lot of personality, a love of good food, and just enough chaos to keep things interesting. Our kitchen is where everyday dinners, special traditions, experiments, and old favorites all come together.</p><p>This is our shared family recipe box: a place to keep the meals we love within reach, pass them down, and make room for every member of the clan to add their own recipes and memories along the way.</p></div>
+      <div className="clan-values" aria-label="What this kitchen is about">
+        <article><span><Utensils aria-hidden="true" /></span><div><h3>Made by us</h3><p>Real recipes from our real table—the favorites we return to again and again.</p></div></article>
+        <article><span><BookOpen aria-hidden="true" /></span><div><h3>Saved for the future</h3><p>A growing collection the kids can use now, add to later, and carry forward.</p></div></article>
+        <article><span><Sparkles aria-hidden="true" /></span><div><h3>Room for our chaos</h3><p>Clan Notes keep the swaps, stories, shortcuts, and family opinions with each dish.</p></div></article>
+      </div>
+    </section>
+    <section className="library" id="recipes" aria-label="Recipe library">
       <div className="browse-filters">
         <Button className="all-recipes" size="sm" variant={filter === "All Recipes" ? "default" : "outline"} onClick={() => setFilter("All Recipes")} aria-pressed={filter === "All Recipes"}>All Recipes</Button>
         <div className="filter-stack"><div className="filter-group"><p>By meal</p><div className="filters" aria-label="Filter by meal type">{mealTypes.map((item) => <Button key={item} size="sm" variant={filter === item ? "default" : "outline"} onClick={() => setFilter(item)} aria-pressed={filter === item}>{item}</Button>)}</div></div>
