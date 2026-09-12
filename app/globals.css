@@ -16,3 +16,32 @@
 .browse-filters{display:grid;grid-template-columns:auto 1fr;gap:.9rem 1.4rem;align-items:center;padding:.6rem 0 1.4rem}.all-recipes{align-self:center;border-radius:999px}.filter-stack{display:grid}.filter-group{display:grid;grid-template-columns:90px 1fr;align-items:start;gap:.7rem;padding:.65rem 0}.filter-group+.filter-group{border-top:1px solid var(--border);padding-top:1rem}.filter-group>p{margin:.35rem 0 0;color:#536077;font-size:.78rem;font-weight:850;letter-spacing:.08em;text-transform:uppercase}.filter-group .filters{padding:0}.card-category{line-height:1.35}
 @media(max-width:760px){.browse-filters{display:flex;flex-direction:column;gap:.8rem}.filter-stack{width:100%}.filter-group{display:block;width:100%}.filter-group>p{margin:0 0 .5rem}.all-recipes{align-self:flex-start}.filter-group .filters{width:100%}}
 .topbar-actions{display:flex;align-items:center;gap:1rem}.add-recipe-link,.edit-recipe-link{display:inline-flex;align-items:center;gap:.4rem;text-decoration:none;font-weight:800}.add-recipe-link{background:#183b64;color:#fff;padding:.55rem .8rem;border-radius:999px;font-size:.82rem}.add-recipe-link svg,.edit-recipe-link svg{width:16px;height:16px}.add-recipe-link:focus-visible,.edit-recipe-link:focus-visible{outline:3px solid var(--ring);outline-offset:3px}.edit-recipe-link{width:max-content;margin-top:1.4rem;color:#183b64;border-bottom:2px solid #f2c14e;padding:.25rem 0}@media(max-width:560px){.brand strong{font-size:1rem}.add-recipe-link{padding:.5rem .65rem}}
+
+
+/* Homepage and family story */
+.topbar-nav{display:flex;align-items:center;gap:1.25rem;margin-left:auto;margin-right:1.5rem}
+.topbar-nav a{color:#536077;text-decoration:none;font-size:.84rem;font-weight:800;white-space:nowrap}
+.topbar-nav a:hover{color:#b74630}
+.topbar-nav a:focus-visible,.primary-cta:focus-visible,.secondary-cta:focus-visible{outline:3px solid var(--ring);outline-offset:3px;border-radius:6px}
+.hero-actions{display:flex;flex-wrap:wrap;align-items:center;gap:.75rem;margin-top:1.5rem}
+.primary-cta,.secondary-cta{min-height:46px;display:inline-flex;align-items:center;justify-content:center;gap:.45rem;border-radius:999px;padding:.7rem 1.05rem;text-decoration:none;font-size:.9rem;font-weight:850}
+.primary-cta{background:#183b64;color:#fff;box-shadow:0 8px 22px rgba(24,59,100,.2)}
+.primary-cta:hover{background:#102f52}
+.primary-cta svg{width:17px;height:17px}
+.secondary-cta{color:#183b64;border:1px solid #b9b2a5;background:rgba(255,253,248,.62)}
+.secondary-cta:hover{border-color:#183b64;background:#fffdf8}
+.about{max-width:1240px;margin:clamp(2.2rem,5vw,4.8rem) auto;padding:clamp(2rem,5vw,4.5rem);display:grid;grid-template-columns:minmax(0,1.05fr) minmax(320px,.95fr);gap:clamp(2.2rem,6vw,6rem);align-items:center;background:#183b64;color:#fff;border-radius:32px;position:relative;overflow:hidden}
+.about::after{content:"";position:absolute;width:210px;height:210px;border:42px solid rgba(242,193,78,.13);border-radius:50%;right:-82px;top:-98px;pointer-events:none}
+.about-copy{position:relative;z-index:1}
+.about .eyebrow{color:#f2c14e}
+.about h2{font-family:var(--font-display),Georgia,serif;font-size:clamp(2.2rem,4vw,3.8rem);line-height:1.04;letter-spacing:-.035em;margin-bottom:1.3rem;max-width:690px}
+.about-copy>p:not(.eyebrow){color:#e3e8f0;font-size:1rem;line-height:1.75;max-width:690px}
+.about-copy>p:last-child{margin-bottom:0}
+.clan-values{display:grid;gap:.8rem;position:relative;z-index:1}
+.clan-values article{display:grid;grid-template-columns:44px 1fr;gap:.85rem;align-items:start;padding:1rem;background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.16);border-radius:18px}
+.clan-values article>span{width:42px;height:42px;display:grid;place-items:center;background:#f2c14e;color:#17233b;border-radius:14px;transform:rotate(-2deg)}
+.clan-values svg{width:20px;height:20px}
+.clan-values h3{font-family:var(--font-display),Georgia,serif;font-size:1.12rem;margin:0 0 .25rem}
+.clan-values p{color:#d6deea;line-height:1.5;font-size:.88rem;margin:0}
+@media(max-width:980px){.topbar-nav{display:none}.about{margin-inline:1rem;grid-template-columns:1fr;gap:2rem}}
+@media(max-width:560px){.hero-actions{align-items:stretch}.primary-cta,.secondary-cta{flex:1 1 auto}.about{padding:2rem 1.25rem;border-radius:24px}.about h2{font-size:2.15rem}.clan-values article{grid-template-columns:38px 1fr}.clan-values article>span{width:38px;height:38px}}
