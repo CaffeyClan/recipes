@@ -26,7 +26,7 @@ export default function Home() {
           <span className="photo-tape photo-tape-left" aria-hidden="true"></span>
           <span className="photo-tape photo-tape-right" aria-hidden="true"></span>
           <Image src={`${basePath}/caffey-clan-main.jpg`} alt="The Caffey family sharing a playful moment together by the lake" fill priority sizes="(max-width: 900px) 92vw, 52vw" />
-          <figcaption>Us, in our natural state.</figcaption>
+          <figcaption>Us, in our natural state. · 2025</figcaption>
         </figure>
       </div>
     </section>
