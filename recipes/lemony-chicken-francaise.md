@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 4
 servings: 1 cutlet + 1/4 cup sauce
 calories: 260
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 36
+carb grams: 2
+fat grams: 7
+fiber grams: 9
+sodium mg: 520
 
 ## Ingredients
 

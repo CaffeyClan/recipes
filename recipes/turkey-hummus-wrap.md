@@ -3,14 +3,14 @@ meals: Lunch
 protein: Poultry
 tags: No bake, Healthy, 25g or more Protein
 source: Recipe workbook
-rating: 
+rating: 0
 servings: 1 Tortilla
 calories: 285
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 32
+carb grams: 28
+fat grams: 9
+fiber grams: 12
+sodium mg: 760
 
 ## Ingredients
 

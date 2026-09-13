@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 3
 servings: 1 serving
 calories: 320
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 19
+carb grams: 1.3
+fat grams: 9
+fiber grams: 44
+sodium mg: 900
 
 ## Ingredients
 

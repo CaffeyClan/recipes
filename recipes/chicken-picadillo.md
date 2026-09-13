@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 4
 servings: ~ 1/4 cup
 calories: 378
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 35
+carb grams: 3
+fat grams: 19
+fiber grams: 19
+sodium mg: 460
 
 ## Ingredients
 

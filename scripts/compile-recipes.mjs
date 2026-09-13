@@ -30,7 +30,7 @@ function parseRecipe(filename, text) {
   const metadata = {};
 
   for (const line of header.split("\n")) {
-    const match = line.match(/^([a-z]+):\s*(.*)$/i);
+    const match = line.match(/^([a-z][a-z ]*):\s*(.*)$/i);
     if (match) metadata[match[1].toLowerCase()] = match[2].trim();
   }
 

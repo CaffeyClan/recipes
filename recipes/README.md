@@ -9,7 +9,7 @@ Each recipe is one ordinary text file. You can edit these files directly on GitH
 
 ## Category choices
 
-- `meals`: Breakfast, Lunch, Dinner, Sides, Dessert, Homemade Mixes. A recipe can use more than one, separated by commas.
+- `meals`: Breakfast, Lunch, Dinner, Snack, Sides, Dessert, Homemade Mixes. A recipe can use more than one, separated by commas.
 - `protein`: Vegetarian, Poultry, Red Meat, or Seafood.
 - `tags`: Add any helpful descriptions, separated by commas.
 

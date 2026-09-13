@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 4
 servings: 1 chicken
 calories: 445
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 58
+carb grams: 4
+fat grams: 15
+fiber grams: 15
+sodium mg: 840
 
 ## Ingredients
 

@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 3
 servings: 1 wrap
 calories: 375
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 36
+carb grams: 3
+fat grams: 25
+fiber grams: 39
+sodium mg: 620
 
 ## Ingredients
 

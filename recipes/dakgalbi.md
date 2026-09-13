@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 4
 servings: 2 cups
 calories: 478
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 26
+carb grams: 44
+fat grams: 13
+fiber grams: 4
+sodium mg: 900
 
 ## Ingredients
 

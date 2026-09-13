@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 5
 servings: 1
 calories: 360
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 35
+carb grams: 35
+fat grams: 7
+fiber grams: 7
+sodium mg: 150
 
 ## Ingredients
 

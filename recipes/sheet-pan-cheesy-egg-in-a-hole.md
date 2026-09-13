@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 3
 servings: 1 slice of bread
 calories: 205
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 14
+carb grams: 4
+fat grams: 11
+fiber grams: 12
+sodium mg: 360
 
 ## Ingredients
 

@@ -3,14 +3,14 @@ meals: Lunch
 protein: Poultry
 tags: Healthy, No bake, 25g or more Protein
 source: Recipe workbook
-rating: 
+rating: 0
 servings: 6 Slices
 calories: 240
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 32
+carb grams: 7
+fat grams: 6
+fiber grams: 1
+sodium mg: 930
 
 ## Ingredients
 

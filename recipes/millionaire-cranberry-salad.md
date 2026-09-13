@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 4
 servings: 10
 calories: 433
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 3
+carb grams: 47
+fat grams: 28
+fiber grams: 6
+sodium mg: 54
 
 ## Ingredients
 

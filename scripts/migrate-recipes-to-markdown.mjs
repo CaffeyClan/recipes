@@ -6,7 +6,7 @@ const recipes = JSON.parse(await readFile(path.join(root, "app/data/recipes.json
 await mkdir(path.join(root, "recipes"), { recursive: true });
 
 const clean = (value) => String(value ?? "").replace(/\r?\n/g, " ").trim();
-const mealTypes = ["Breakfast", "Lunch", "Dinner", "Sides", "Dessert", "Homemade Mixes"];
+const mealTypes = ["Breakfast", "Lunch", "Dinner", "Snack", "Sides", "Dessert", "Homemade Mixes"];
 
 function mealsFor(recipe) {
   if (recipe.title === "Fruit Salsa") return ["Breakfast", "Dessert"];

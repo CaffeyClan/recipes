@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 4
 servings: 5 oz chicken and 1/3 cup potatoes
 calories: 356
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 36
+carb grams: 3.5
+fat grams: 15
+fiber grams: 17
+sodium mg: 360
 
 ## Ingredients
 

@@ -13,7 +13,7 @@ type Recipe = { id: string; title: string; category: string; meal: string; prote
 const recipes = recipesData as Recipe[];
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const repositoryUrl = "https://github.com/CaffeyClan/recipes";
-const mealTypes = ["Breakfast", "Lunch", "Dinner", "Sides", "Dessert", "Homemade Mixes"];
+const mealTypes = ["Breakfast", "Lunch", "Dinner", "Snack", "Sides", "Dessert", "Homemade Mixes"];
 const proteinTypes = ["Vegetarian", "Poultry", "Red Meat", "Seafood"];
 
 function recipeGroups(recipe: Recipe) {

@@ -1,4 +1,4 @@
-title: Brown Sugar Pork Loin
+title: Grilled Brown Sugar Pork Loin
 meals: Dinner
 protein: Red Meat
 tags: Red Meat

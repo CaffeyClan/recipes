@@ -6,11 +6,11 @@ source: Recipe workbook
 rating: 5
 servings: 4 oz chicken + 1  cup vegetables
 calories: 430
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 27
+carb grams: 4
+fat grams: 17
+fiber grams: 42
+sodium mg: 590
 
 ## Ingredients
 

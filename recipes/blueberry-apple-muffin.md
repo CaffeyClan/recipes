@@ -3,14 +3,14 @@ meals: Breakfast
 protein: Vegetarian
 tags: Fruity, Healthy, 25g or more Protein
 source: Recipe workbook
-rating: 
+rating: 0
 servings: 1 muffin
 calories: 190
-protein grams: 
-carb grams: 
-fat grams: 
-fiber grams: 
-sodium mg: 
+protein grams: 11
+carb grams: 18
+fat grams: 7
+fiber grams: 3
+sodium mg: 150
 
 ## Ingredients
 
