@@ -1,5 +1,5 @@
 title: Veg Muffins
-meals: Snack
+meals: Sides
 protein: Vegetarian
 tags: Diet plan
 source: Diet Plan

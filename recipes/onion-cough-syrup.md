@@ -1,5 +1,5 @@
 title: Onion Cough Syrup
-meals: Homemade Mixes
+meals: Natural Remedies
 protein: Vegetarian
 tags: Cold & flu remedy
 source: Natural Flu Remedies

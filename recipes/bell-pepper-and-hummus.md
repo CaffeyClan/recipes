@@ -1,5 +1,5 @@
 title: Bell Pepper & Hummus
-meals: Snack
+meals: Sides
 protein: Vegetarian
 tags: Diet plan
 source: Diet Plan

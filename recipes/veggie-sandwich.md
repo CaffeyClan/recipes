@@ -1,5 +1,5 @@
 title: Veggie Sandwich
-meals: Snack
+meals: Sides
 protein: Vegetarian
 tags: Diet plan
 source: Diet Plan
