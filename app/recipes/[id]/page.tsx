@@ -23,6 +23,10 @@ function videoEmbedUrl(src: string) {
   return "";
 }
 
+function nutritionValue(value: string | number | null | undefined, unit = "") {
+  return value === null || value === undefined || value === "" ? "—" : `${value}${unit}`;
+}
+
 export function generateStaticParams() {
   return recipes.map((recipe) => ({ id: recipe.id }));
 }
@@ -33,7 +37,7 @@ export default async function RecipePage({ params }: { params: Promise<{ id: str
   if (!recipe) notFound();
 
   const meals = recipe.meal.split(",").map((item) => item.trim()).filter(Boolean);
-  const nutrition = recipe.nutrition;
+  const nutrition = recipe.nutrition ?? {};
   const description = recipe.description ?? [];
   const photos = recipe.photos ?? [];
   const video = recipe.video ?? "";
@@ -59,7 +63,7 @@ export default async function RecipePage({ params }: { params: Promise<{ id: str
         <section><h2>Ingredients</h2><ul className="ingredient-list">{recipe.ingredients.map((ingredient, index) => <li key={`${ingredient.name}-${index}`}>{ingredient.amount && <strong>{ingredient.amount}</strong>}<span>{ingredient.name}</span>{ingredient.note && <em>{ingredient.note}</em>}</li>)}</ul></section>
         <section><h2>Directions</h2><ol className="instruction-list">{recipe.instructions.map((instruction, index) => <li key={index}><span>{index + 1}</span><p>{instruction.replace(/^\d+[.)]\s*/, "")}</p></li>)}</ol></section>
         {recipe.notes.length > 0 && <section className="family-note"><MessageCircle aria-hidden="true" /><div><h2>Recipe Notes</h2>{recipe.notes.map((note) => <p key={note}>{note}</p>)}</div></section>}
-        {nutrition && Object.values(nutrition).some(Boolean) && <section><h2>Nutrition</h2><div className="nutrition-grid">{nutrition.servings && <div><strong>{nutrition.servings}</strong><span>Serving</span></div>}{nutrition.calories && <div><strong>{nutrition.calories}</strong><span>Calories</span></div>}{nutrition.protein && <div><strong>{nutrition.protein}g</strong><span>Protein</span></div>}{nutrition.carbs && <div><strong>{nutrition.carbs}g</strong><span>Carbs</span></div>}{nutrition.fat && <div><strong>{nutrition.fat}g</strong><span>Fat</span></div>}{nutrition.fiber && <div><strong>{nutrition.fiber}g</strong><span>Fiber</span></div>}</div></section>}
+        <section><h2>Nutrition</h2><p className="nutrition-note">Nutrition amounts are listed per serving. A dash means the value has not been calculated yet.</p><div className="nutrition-grid"><div><strong>{nutritionValue(nutrition.servings)}</strong><span>Recipe yield</span></div><div><strong>{nutritionValue(nutrition.calories)}</strong><span>Calories</span></div><div><strong>{nutritionValue(nutrition.protein, "g")}</strong><span>Protein</span></div><div><strong>{nutritionValue(nutrition.carbs, "g")}</strong><span>Carbohydrates</span></div><div><strong>{nutritionValue(nutrition.fat, "g")}</strong><span>Fat</span></div><div><strong>{nutritionValue(nutrition.fiber, "g")}</strong><span>Fiber</span></div><div><strong>{nutritionValue(nutrition.sodium, "mg")}</strong><span>Sodium</span></div></div></section>
       </div>
       <RecipeExperience recipeId={recipe.id} recipeTitle={recipe.title} />
     </article>

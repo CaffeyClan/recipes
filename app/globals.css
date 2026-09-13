@@ -110,6 +110,7 @@
 .recipe-card-page .ingredient-list li{align-items:flex-start}
 .recipe-card-page .ingredient-list em{margin-left:auto;max-width:46%;color:#6a7485;font-size:.84rem;line-height:1.45;text-align:right}
 .recipe-card-page .family-note h2{font-family:var(--font-body),Arial,sans-serif;font-size:.82rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 .25rem}
+.nutrition-note{margin:-.45rem 0 1rem;color:#647087;font-size:.84rem;line-height:1.45}
 .reviews{margin-top:3rem;padding-top:2.5rem;border-top:2px solid #183b64}
 .reviews-heading{display:flex;justify-content:space-between;align-items:end;gap:2rem;margin-bottom:1.4rem}
 .reviews-heading h2{font-family:var(--font-display),Georgia,serif;font-size:clamp(2rem,5vw,3.5rem);margin-bottom:.4rem}
@@ -174,4 +175,5 @@
   .family-note p{line-height:1.25}
   .nutrition-grid{grid-template-columns:repeat(6,1fr);gap:3pt}
   .nutrition-grid div{background:#eee;border-radius:0;padding:4pt}
+  .nutrition-note{margin:-2pt 0 4pt;font-size:8pt}
 }
