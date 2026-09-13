@@ -34,3 +34,26 @@ Leave the last section empty when there is no note:
 ```
 
 The website rebuilds itself after a recipe file is committed.
+
+## Optional blog-style description
+
+Write one or more paragraphs beneath `## Description`. Remove the placeholder when a recipe does not need a description.
+
+## Optional photos
+
+1. Upload recipe photos to `public/recipe-media` using **Add file → Upload files**.
+2. Beneath `## Photos`, add one line per photo:
+
+```text
+- /recipe-media/grandmas-soup.jpg | Grandma's chicken soup in a blue bowl
+```
+
+The text after `|` describes the image for relatives using screen readers. Use lowercase filenames without spaces when possible.
+
+## Optional video
+
+Paste a YouTube or Vimeo link after `video:` near the top of the recipe. An uploaded `.mp4` or `.webm` file in `public/recipe-media` also works:
+
+```text
+video: /recipe-media/folding-dumplings.mp4
+```

@@ -3,6 +3,7 @@ meals: Dinner, Lunch
 protein: Poultry
 tags: Family favorite, Freezer friendly
 source: Grandma's recipe box
+video:
 rating:
 servings: 6
 calories:
@@ -11,6 +12,14 @@ carb grams:
 fat grams:
 fiber grams:
 sodium mg:
+
+## Description
+
+Add a story or description here.
+
+## Photos
+
+- /recipe-media/your-photo.jpg | Describe who or what is shown
 
 ## Ingredients
 

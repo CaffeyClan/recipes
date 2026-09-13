@@ -15,6 +15,15 @@ function numberOrNull(value) {
   return Number.isFinite(number) ? number : null;
 }
 
+function paragraphs(lines = []) {
+  return lines
+    .join("\n")
+    .split(/\n\s*\n/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean)
+    .filter((paragraph) => paragraph !== "Add a story or description here.");
+}
+
 function parseRecipe(filename, text) {
   const sections = text.replace(/\r\n/g, "\n").split(/^## /m);
   const header = sections.shift();
@@ -47,6 +56,14 @@ function parseRecipe(filename, text) {
     .map((line) => line.replace(/^-\s+/, "").trim())
     .filter((note) => note && note !== "Add family notes here.");
 
+  const photos = (content.photos ?? [])
+    .filter((line) => /^-\s+/.test(line))
+    .map((line) => {
+      const [src = "", alt = ""] = line.replace(/^-\s+/, "").split("|").map((part) => part.trim());
+      return { src, alt: alt || metadata.title || "Family recipe photo" };
+    })
+    .filter((photo) => photo.src && photo.src !== "/recipe-media/your-photo.jpg");
+
   const meals = splitList(metadata.meals);
   return {
     id: filename.replace(/\.md$/, ""),
@@ -69,6 +86,9 @@ function parseRecipe(filename, text) {
       sodium: numberOrNull(metadata["sodium mg"]),
     },
     source: metadata.source || "Family recipe",
+    description: paragraphs(content.description),
+    photos,
+    video: metadata.video || "",
   };
 }
 
